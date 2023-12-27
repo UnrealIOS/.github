@@ -34,6 +34,22 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE11003: Full Terra low-fidelity level Augmentation/visualization
    - CASE11004: Abstract Vehicles Game
    - CASE11005: Abstract Vehicles Game Hardware Controllers
+   - CASE11006: Abstract Vehicles Game VR
+   - CASE11007: Abstract Vehicles Game AR
+   - CASE11008: Abstract Vehicles Game Vision
+   - CASE11009: Abstract Vehicles Game Cars
+   - CASE11009: Abstract Vehicles Game Cars in-Game AR
+   - CASE11010: Abstract Vehicles Game Planes
+   - CASE11010: Abstract Vehicles Game Planes in-Game AR
+   - CASE11011: Abstract Vehicles Game Ships
+   - CASE11012: Abstract Vehicles Game Intercontinental
+   - CASE11013: Abstract Vehicles Game Intercontinental Payload Visualization
+   - CASE11014: Abstract Vehicles Game Marketing
+   - CASE11016: Abstract Vehicles Game Consoles
+   - CASE11016: Abstract Vehicles Game Payload
+   - CASE11016: Abstract Vehicles Game Offload
+   - CASE11016: Abstract Vehicles Game User Categorizer
+   - CASE11016: Abstract Vehicles Game Shipping
    - CASE1005: Co-hosting and Credentials
    - CASE1006: Devnets and Demons
    - CASE1007..CASE1100: Anonymized:
