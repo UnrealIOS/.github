@@ -92,7 +92,7 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE81: Shipping/Marketplace adapter libraries
    - CASE82: International electronic court library
    - CASE83: Google Calendar aware local/remote file aware chatbot
-   - CASE84: Notion to Github sync
+   - CASE84: Notion to Github, Trello to Jira, Confluence to IBM Cognos TM1 sync operator driven chatbot
    - CASE85: Mac App "Slack auto responder"
    - CASE86: Mac App "Zoom auto responder"
    - CASE87: iOS App "receive Eth reward for uploading your photos/videos, anonymized prior to upload on your device"
