@@ -28,6 +28,17 @@ Legal court cases of `default` jurisdiction `DEFAULT_JURISDICTION`
 
 ## [CASE100..999](https://github.com/UnrealIOS/CASE100_999)
 
+Technical high priority categories
+
+ - CASE900 Hardware number indicators
+ - CASE999 Financial/Financial credentials screenshots
+ - Anonymized imagined printed goverment documents (jurisdiction agnostic)
+ - Anonymized imagined printed medical documents (jurisdiction agnostic)
+ - Mail labels (worldwide)
+ - Supermarket on shelf price labels (worldwide)
+ - Groceries nutritional information (worldwide)
+ - Drug packaging/docs (worldwide)
+
 
 
 ## [CASE1000..9999](https://github.com/UnrealIOS/CASE1000_9999)
