@@ -33,6 +33,15 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE1007..CASE1100: Anonymized:
       - CASE1008: Co-hosting and Credentials - remove real credentials
       - CASE1009: Devnets and Demons - remove hardcoded network addresses
+      - CASE1010: Street addresses on images/video
+      - CASE1011: Map info on images/video
+      - CASE1012: Internet credentials/phone numbers on images/video
+      - CASE1013: Faces on images/video
+      - CASE1014: Clothed humans on images/video
+      - CASE1015: Tattoos on humans on images/video
+      - CASE1016: Voice in audio
+      - CASE1017: Locations too closed to given location on images/video
+      - CASE1019: Religion/political affiliation of interest images/video
       - CASE1099: Anonymized Everything, except for CASES1..111 vs originals
    - CASE1100: 
 
