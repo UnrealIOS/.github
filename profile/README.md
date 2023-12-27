@@ -16,7 +16,25 @@ System for computers and devices to analyze, manage, edit, discover and surface 
 
 This is test case that is run on commit to `main` branch of `Monorepo`
 
- - `#Dev`
+ - `#Dev`: everything thats needs to be run
+ - Per commit regeneration For:
+   - CASE1..CASE10: Anonymized Legal Court Test Cases
+   - CASE111: Anonymized Data Dump of CASE1..110 claimant
+     - Anonymized Full Telegram History
+   - CASE110: Anonymized Medical Case of CASE1..110 claimant
+   - CASE1001: Crypto-order system for `DEFAULT_JURISDICTION`
+   - CASE1002: Full-fidelity level Augmentation for Places and Personalities of `DEFAULT_JURISDICTION` and all neighbours
+   - CASE1002: Flights visualization (preferred)
+   - CASE1003: Airplane tracking visualization (preferred)
+   - CASE1003: Sunset/Sunrizes over Cityscapes visualization (preferred)
+   - CASE1004: Promosites constellation (preffered)
+   - CASE1005: Co-hosting and Credentials
+   - CASE1006: Devnets and Demons
+   - CASE1007..CASE1100: Anonymized:
+      - CASE1008: Co-hosting and Credentials
+      - CASE1009: Devnets and Demons
+      - CASE1099: Anonymized Everything but CASE1..110 claimant vs originals
+   - CASE1100: 
 
 ## [CASE1..99](https://github.com/UnrealIOS/CASE1_99)
 
@@ -71,6 +89,7 @@ Wide spectrum of categories cases with manual curation of the documents, for exa
    - Martial Arts fight video annotation
    - Software development
       - Games
+      - Other arbitrary software of choice
    - Science literature research
       - Arxiv paper set annotation/references retrieval
      
