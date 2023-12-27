@@ -20,6 +20,28 @@ This is test case that is run on commit to `main` branch of `Monorepo`
  - Per commit regeneration For:
    - CASE1..CASE10: Anonymized Legal Court Test Cases
    - CASE11..CASE49: XX + Serverstack OSS/private projects optimization - abstraction level reduction: XX to docker/XX to python and libs. XX may be hardware, may be cpu - CUDA operator scheduler access granter credentials issuer. First acceleration - aquire / partner with https://www.modular.com
+   - CASE12: Cross API function call fall through rewrite
+   - CASE13: iOS app source code description
+   - CASE14: iOS app source code description summarization
+   - CASE15: iOS app source code functional description and screenshot to Android app source code functional description and screenshot
+   - CASE16: Android app source code functional description and screenshot to Android app source code description
+   - CASE17: Android app source code description to Android app source code
+   - CASE18: Unity vs Unreal
+   - CASE19: Windows vs Mac
+   - CASE20: Django vs Rails
+   - CASE21: Node.js, Python, Go, Swift, Rust OSS used library matrix + unused important foundational libraries
+   - CASE22: CUDA vs all other GPU API providers, first Metal
+   - CASE23: aws cli vs gcloud cli vs azure cli
+   - CASE24: bash vs zsh, tmux vs GNU screen, awk vs sed - tools
+   - CASE26: React vs Angular
+   - CASE27: Unused foundational Raylib or analogue
+   - CASE28: Unused foundational modular stack or analugue
+   - CASE29: Unused foundational ML lib collection
+   - CASE30: Unused foundational math methods lib collection
+   - CASE31: Unused foundational databases, datalakes, event queues and other server side things
+   - CASE32: Unused foundational BIOSes, drivers, disk utilitites, boot/debug tools, firmwares and other client side things
+   - CASE32: Unused foundational all other client side things
+   - CASE33: Unused foundational misc libraries
    - CASE50...CASE91: SwiftUI..UIKit..Quartz..Foundation..baremetal level rewrite for UISubstrate. First acceleration - reach out to Apportable Alumnis to hire
    - CASE92: Privately hosted frozen API compatible Telegram server constellation clone. Open Source code.
    - CASE93: Arbitrary instructions flat iOS/mac app. File/chat manager/Private Telegram-client only fork client/git repository provider-client.
