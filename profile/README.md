@@ -112,7 +112,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
    - Python Data Science Handbook
     - Math requisite
    - Swift System Engineer Handbook
-    - Compilers and Operating Systems Regurgitation Selected Chapters Summary
+     - Compilers and Operating Systems Regurgitation Selected Chapters Summary
    - Linux User Handbook
      - Mac edition
    - Windows User Handbook
