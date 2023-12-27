@@ -19,6 +19,7 @@ This is test case that is run on commit to `main` branch of `Monorepo`
  - `#Dev`: everything thats needs to be run
  - Per commit regeneration For:
    - CASE1..CASE10: Anonymized Legal Court Test Cases
+   - CASE99: Legal/Dev group chat remote/local file manager data collection moderation labeling viewing reading recording understanding summarization translation authoring filesystem/convention/configuration/application
    - CASE109: Anonymized Full Telegram History of CASE1..110 claimant
    - CASE111: Anonymized Telegram/Photos/Files Dump of CASE1..110 claimant
    - CASE110: Anonymized Medical Case of CASE1..110 claimant
