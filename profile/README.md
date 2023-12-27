@@ -61,7 +61,7 @@ Technical high priority categories
 
 ## [CASE1000..9999](https://github.com/UnrealIOS/CASE1000_9999)
 
-Wide spectrum of categories cases, for example:
+Wide spectrum of categories cases with manual curation of the documents, for example:
 
    - Movie production
    - Book production
