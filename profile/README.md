@@ -14,9 +14,16 @@ System for computers and devices to analyze, manage, edit, discover and surface 
 
 ## [CASE0](https://github.com/UnrealIOS/CASE0)
 
+This is test case that is run on commit to `main` branch of `Monorepo`
+
+ - `#Dev`
+
 ## [CASE1..99](https://github.com/UnrealIOS/CASE1_99)
 
 
+Legal court cases of `default` jurisdiction `DEFAULT_JURISDICTION`
+
+  - `#Legal`
 
 
 ## [CASE100..999](https://github.com/UnrealIOS/CASE100_999)
@@ -25,14 +32,32 @@ System for computers and devices to analyze, manage, edit, discover and surface 
 
 ## [CASE1000..9999](https://github.com/UnrealIOS/CASE1000_9999)
 
+Wide spectrum of categories cases, for example:
+
+   - Movie production
+   - Book production
+   - Podcast annotation
+   - Medical patient cases
+      - `#ImaginedMedicalPatienCase`, `CASE1002`
+   - Martial Arts fight video annotation
+   - Software development
+      - Games
+   - Science literature research
+      - Arxiv paper set annotation/references retrieval
+     
+
 
 
 
 
 ## [CASE10000..99999](https://github.com/UnrealIOS/CASE10000_99999)
 
+Huge cases
 
-
+ - Mail dumps
+   - CASE10001 US Paper Mail Scan Dump
+   - CASE10002 Email dump
+   - CASE10003 Any image/video
 
 🙋‍♀️ A short introduction - what is your organization all about?
 
