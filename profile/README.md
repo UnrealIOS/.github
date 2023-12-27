@@ -112,6 +112,14 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
    - Python Data Science Handbook
      - required Math: ...
      - Computational Sciences Book Regurgitation Selected Chapters Summary
+     - Animal Menagerie summarization chapters/overview/guides for:
+        - databases
+        - any other storage
+        - cloud shell tools
+           - gcloud
+           - aws cli
+           - azure cli
+
    - Swift System Engineer Handbook
      - required Math: ...
      - Compilers and Operating Systems Regurgitation Selected Chapters Summary
@@ -119,6 +127,18 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
 
    - Linux User Handbook
      - Mac edition
+     - Animal Menagerie summarization chapters/overview/guides for:
+        - docker
+        - bash
+        - zsh
+        - cubernetes
+        - terraform
+        - vim
+        - tmux
+        - awk
+        - nettools
+        - sh tools
+          
    - Windows User Handbook
    - Selected Linux/Windows Procedures Handbook
    - Crypto Engineer Book
