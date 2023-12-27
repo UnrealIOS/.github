@@ -37,6 +37,7 @@ Technical high priority categories
  - Best of public court case dump augmented with imagined participants (preffered jurisdiction)
  - Step by step mobile screenshot sequences/videos annotated UI guides for developers
  - Step by step desktop screenshot sequences/videos annotated UI guides for developers
+ - Step by step desktop screenshot sequences/videos annotated UI guides for digital artists/gamedev
  - Photos of printed payment receipts in any form (preffered jurisdiction only)
  - Online shopping screenshots (preffered providers)
  - Taxi rides screenshots (preffered providers)
