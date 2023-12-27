@@ -19,7 +19,7 @@ This is test case that is run on commit to `main` branch of `Monorepo`
  - `#Dev`: everything thats needs to be run
  - Per commit regeneration For:
    - CASE1..CASE10: Anonymized Legal Court Test Cases
-   - CASE11..CASE49: XX + Serverstack OSS/private projects optimization - abstraction level reduction: XX to docker/XX to python and libs. XX may be hardware, may be cpu - CUDA operator scheduler access granter credentials issuer
+   - CASE11..CASE49: XX + Serverstack OSS/private projects optimization - abstraction level reduction: XX to docker/XX to python and libs. XX may be hardware, may be cpu - CUDA operator scheduler access granter credentials issuer. First acceleration - aquire / partner with https://www.modular.com
    - CASE50...CASE91: SwiftUI..UIKit..Quartz..Foundation..baremetal level rewrite for UISubstrate  
    - CASE92: Privately hosted frozen API compatible Telegram server constellation clone. Open Source code.
    - CASE93: Arbitrary instructions flat iOS/mac app. File/chat manager/Private Telegram-client only fork client/git repository provider-client.
