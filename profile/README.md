@@ -111,6 +111,14 @@ Huge cases
    - Friends Book - Medically Affiliated Natural Sciences Book Regurgitation + Selected Veterinary Science Books Summarization for full reading
    - Python Data Science Handbook
    - Swift System Engineer Handbook
+   - Wikipedia Geo Places Annotation - History included (worldwide, multilingual)
+   - Wikipedia Web Domain Names Annotation (worldwide, multilingual)
+   - Wikipedia Celebrities Annotation English
+   - Wikipedia MMAFighters Annotation English
+   - Wikipedia TVShows/Movies/MoviePersonalities Annotation English
+   - Wikipedia Songs Annotation (worldwide, multilingual)
+   - Wikipedia History Book Regurgitation English
+   - 
 
 🙋‍♀️ A short introduction - what is your organization all about?
 
