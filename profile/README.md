@@ -114,6 +114,8 @@ Huge cases
    - Linux User Handbook
    - Windows User Handbook
    - Selected Linux/Windows Procedures Handbook
+   - Crypto Engineer Book
+   - Animal Menagerie Reimagined
    - Wikipedia Geo Places Annotation - History included (worldwide, multilingual)
    - Wikipedia Web Domain Names Annotation (worldwide, multilingual)
    - Wikipedia Celebrities Annotation English
