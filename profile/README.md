@@ -19,6 +19,10 @@ This is test case that is run on commit to `main` branch of `Monorepo`
  - `#Dev`: everything thats needs to be run
  - Per commit regeneration For:
    - CASE1..CASE10: Anonymized Legal Court Test Cases
+   - CASE95: 
+   - CASE96: Arbitrary instructions responder bot with social network sentiment (last day worldwide news summary, proofed between all US newspaper websites and paper controls deposited by human operators of trust - oracles) analysis ("sell Eth from money in my name deposited into your trust, if social network sentiment analysis says `Eth` to the moon!")
+   - CASE97: Arbitrary instructions (like "give user a location from a list of locations in Google Spreadsheets or from XLS that is attached if user correctly pays mentioned in spreadsheet price list Eth to following address: ETH address" Email/Telegram responder bot
+   - CASE98: Source code - aware Telegram responder bot
    - CASE99: Legal/Dev group chat remote/local file manager data collection moderation labeling viewing reading recording understanding summarization translation authoring filesystem/convention/configuration/application
    - CASE109: Anonymized Full Telegram History of CASE1..110 claimant
    - CASE111: Anonymized Telegram/Photos/Files Dump of CASE1..110 claimant
