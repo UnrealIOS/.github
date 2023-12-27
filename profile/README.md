@@ -112,6 +112,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
    - Python Data Science Handbook
    - Swift System Engineer Handbook
    - Linux User Handbook
+     - Mac edition
    - Windows User Handbook
    - Selected Linux/Windows Procedures Handbook
    - Crypto Engineer Book
