@@ -52,7 +52,7 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE11016: Abstract Vehicles Game User Categorizer
    - CASE11016: Abstract Vehicles Game Shipping
    - CASE12000..CASE13000: All other games, books and movies in active development, flexible to 0
-   - CASE????? - all sample categories (like "Illiad Movie")
+   - CASE????? - all sample categories (like "Automated Illiad Movie Adaptation", "Cityscape image on sunset from geolocation", "Translated movie (in movie captions included)")
    - CASE1005: Co-hosting and Credentials
    - CASE1006: Devnets and Demons
    - CASE1007..CASE1100: Anonymized:
