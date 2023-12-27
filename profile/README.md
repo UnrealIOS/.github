@@ -37,7 +37,7 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE27: Unused foundational Raylib or analogue
    - CASE28: Unused foundational modular stack or analugue
    - CASE29: Unused foundational ML lib collection
-   - CASE30: Unused foundational math methods, computer algebra, parsers and parser generators, file/networking exchange formats, archivers, cryptography, hashes, network protocols, llvm and friends and debuggers, jvm and friends and debuggers, IDEs, editors and Traditional Terminal/GUI Substrate collection
+   - CASE30: Unused foundational math methods, computer algebra, parsers and parser generators, file/networking exchange formats, archivers, cryptography, hashes, network protocols, llvm and friends and debuggers, jvm and friends and debuggers, IDEs, editors and Traditional Terminal/GUI Substrate collection + VMs wide zoo, incuding all console emulators including historical and potentionaly malwared in source code
    - CASE31: Unused foundational databases, datalakes, event queues and other server side things
    - CASE32: Unused foundational BIOSes, drivers, disk utilitites, boot/debug tools, firmwares and other client side things
    - CASE32: Unused foundational all other client side things
