@@ -87,11 +87,11 @@ Huge cases
    - CASE10001 US Paper Mail Scan Dump
    - CASE10002 Email dump
    - CASE10003 Any image/video
-   - Pshychology/Affiliated Sciences Book Dump/Text Fragment Level Recognizer
+   - Psychology/Affiliated Sciences Book Dump/Text Fragment Level Recognizer
    - All Math Book Regurgitation
       - Seriously, any Math!
       - AI Generated Silly Math manual block list
-   - Medically Affiliated Natural Sciences Book Regurgitation. Pshychology/Affiliated is Excluded!
+   - Medically Affiliated Natural Sciences Book Regurgitation. Psychology/Affiliated is Excluded!
       - Physics
       - Biophyiscs
       - Chemistry
