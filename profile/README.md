@@ -42,6 +42,7 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE11010: Abstract Vehicles Game Planes
    - CASE11010: Abstract Vehicles Game Planes in-Game AR
    - CASE11011: Abstract Vehicles Game Ships
+   - CASE11011: Abstract Vehicles Game Submarines
    - CASE11012: Abstract Vehicles Game Intercontinental
    - CASE11013: Abstract Vehicles Game Intercontinental Payload Visualization
    - CASE11014: Abstract Vehicles Game Marketing
