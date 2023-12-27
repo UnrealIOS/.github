@@ -43,6 +43,9 @@ Technical high priority categories
  - Supermarket on shelf price labels (worldwide)
  - Groceries nutritional information (worldwide)
  - Pharmacy drug packaging/in-package printed doc scans/photos (worldwide)
+ - Photos/screenshots containing phone number
+ - Photos/screenshots containing street address or any other way pinpoint location
+
 
 
 
