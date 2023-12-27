@@ -115,6 +115,7 @@ Technical high priority categories
 
 Wide spectrum of categories cases with manual curation of the documents, for example:
 
+   - Translate video including captions to given language: TV Shows adaptation
    - Movie production
    - Book production
    - Podcast annotation
