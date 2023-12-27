@@ -81,7 +81,7 @@ Wide spectrum of categories cases with manual curation of the documents, for exa
 
 ## [CASE10000..99999](https://github.com/UnrealIOS/CASE10000_99999)
 
-Huge cases
+Huge cases, or "manual regeneration only" small cases (such as annually updatable books)
 
  - Mail dumps
    - CASE10001 US Paper Mail Scan Dump
