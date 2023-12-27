@@ -28,6 +28,11 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE1003: Airplane tracking visualization (preferred)
    - CASE1003: Sunset/Sunrizes over Cityscapes visualization (preferred)
    - CASE1004: Promosites constellation (preffered)
+   - CASE11000: Star Sky visualization (preferred)
+   - CASE11001: Underwater, Overwater, Aerial, Terrestrial Animals visualization (preffered)
+   - CASE11002: Solar Planets visualization
+   - CASE11003: Full Terra low-fidelity level Augmentation/visualization
+   - CASE11004: Abstract Vehicles Game
    - CASE1005: Co-hosting and Credentials
    - CASE1006: Devnets and Demons
    - CASE1007..CASE1100: Anonymized:
