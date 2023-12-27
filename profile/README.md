@@ -59,8 +59,44 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE48: Cat
    - CASE49: Human
    - CASE50...CASEXX: SwiftUI..UIKit..Quartz..Foundation..baremetal level rewrite for UISubstrate. First acceleration - reach out to Apportable Alumnis to hire
-  
-   - 
+   - CASE55: UserGroup - can have children UserGroups with associated foundingUser and supergroup. Has foundingUser. foundingUser can exclude members from subgroups of any associated children UserGroups
+   - CASE56: Access - (write, read, deny, write+remove, vote_public, comment) - User can have specified one to any entity
+   - CASE57: Posting - can be of Trivia at Place
+   - CASE58: Heresay - temporary Trivia passed from user to user
+   - CASE57: Trivia - can have text description attached to any amount of Entities 
+   - CASE58: Place
+   - CASE59: EntityToEntityRelation
+   - CASE60: Entity (any of First Level Objects)
+   - CASE61: Server
+   - CASE62: User
+   - CASE63: File
+   - CASE64: Directory
+   - CASE65: Case
+   - CASE66: VehicleInstance
+   - CASE67: CameraInstance
+   - CASE68: CatInstance
+   - CASE69: HumanInstance
+   - CASE70: TerraPosition (geoposition + orientation + focal length)
+   - CASE71: NavChart
+   - CASE72: Image
+   - CASE73: Audio
+   - CASE74: Anime
+   - CASE75: MMA Fight
+   - CASE76: TV Show
+   - CASE75: Movie
+   - CASE76: Legal
+   - CASE77: Movie Production
+   - CASE78: Marketplace
+   - CASE79: Delivery app
+   - CASE80: Taxi app
+   - CASE81: Shipping/Marketplace adapter libraries
+   - CASE82: International electronic court library
+   - CASE83: Google Calendar aware local/remote file aware chatbot
+   - CASE84: Notion to Github sync
+   - CASE85: Mac App "Slack auto responder"
+   - CASE86: Mac App "Zoom auto responder"
+   - CASE87: iOS App "receive Eth reward for uploading your photos/videos, anonymized prior to upload on your device"
+   - CASE88: iOS App "receive Eth reward for working on tasks in remote repository"
    - CASE89: iOS App "execute your prompt without content filters with attachments of arbitrary size (including cloud disk drives)"
    - CASE90: Telegram bot/Eth contract: "specified in prompt file (user can submit their own video, audio, image, text files, receive any) for Eth after price offer"
    - CASE91: Telegram bot/Eth contract: "specified in prompt file (arbitary video, audio, image, text generation, no size limit) for Eth after price offer that expires in 1 minute acception with Website with twitter review tag and interface for latest reviews"
