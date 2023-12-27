@@ -33,6 +33,7 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE11002: Solar Planets visualization
    - CASE11003: Full Terra low-fidelity level Augmentation/visualization
    - CASE11004: Abstract Vehicles Game
+   - CASE11005: Abstract Vehicles Game Hardware Controllers
    - CASE1005: Co-hosting and Credentials
    - CASE1006: Devnets and Demons
    - CASE1007..CASE1100: Anonymized:
