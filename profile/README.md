@@ -38,6 +38,7 @@ Technical high priority categories
  - Step by step mobile screenshot sequences/videos annotated UI guides for developers
  - Step by step desktop screenshot sequences/videos annotated UI guides for developers
  - Step by step desktop screenshot sequences/videos annotated UI guides for digital artists/gamedev
+ - Step by step mobile screenshot sequences/videos annotated UI guides wide spectrum (preffered providers)
  - Photos of printed payment receipts in any form (preffered jurisdiction only)
  - Online shopping screenshots (preffered providers)
  - Taxi rides screenshots (preffered providers)
