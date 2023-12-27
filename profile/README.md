@@ -58,7 +58,10 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE47: Bookshelf
    - CASE48: Cat
    - CASE49: Human
-   - CASE50...CASEXX: SwiftUI..UIKit..Quartz..Foundation..baremetal level rewrite for UISubstrate. First acceleration - reach out to Apportable Alumnis to hire
+   - CASE50...CASEXXXXX: SwiftUI..UIKit..Quartz..Foundation..baremetal level rewrite for UISubstrate. First acceleration - reach out to Apportable Alumnis to hire
+   - CASE52: Human/Cat Commune Habitat
+   - CASE53: SpaceshipLivingQuaters
+   - CASE54: Spaceship
    - CASE55: UserGroup - can have children UserGroups with associated foundingUser and supergroup. Has foundingUser. foundingUser can exclude members from subgroups of any associated children UserGroups
    - CASE56: Access - (write, read, deny, write+remove, vote_public, comment) - User can have specified one to any entity
    - CASE57: Posting - can be of Trivia at Place
