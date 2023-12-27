@@ -118,7 +118,7 @@ Huge cases
    - Wikipedia TVShows/Movies/MoviePersonalities Annotation English
    - Wikipedia Songs Annotation (worldwide, multilingual)
    - Wikipedia History Book Regurgitation English
-   - 
+   - Wikipedia/\*.fandom.com/lexicanum.com Fictional Characters/Items/Places annotation
 
 🙋‍♀️ A short introduction - what is your organization all about?
 
