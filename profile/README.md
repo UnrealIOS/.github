@@ -110,12 +110,15 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
    - Nature Book - Engineering Sciences Book Regurgitation + Medically Affiliated Natural Sciences Book Regurgitation Summarization for full reading
    - Friends Book - Medically Affiliated Natural Sciences Book Regurgitation + Selected Veterinary Science Books Summarization for full reading
    - Python Data Science Handbook
+    - Math requisite
    - Swift System Engineer Handbook
+    - Compilers and Operating Systems Regurgitation Selected Chapters Summary
    - Linux User Handbook
      - Mac edition
    - Windows User Handbook
    - Selected Linux/Windows Procedures Handbook
    - Crypto Engineer Book
+      - Math requisite
    - Animal Menagerie Reimagined
    - Wikipedia Geo Places Annotation - History included (worldwide, multilingual)
    - Wikipedia Web Domain Names Annotation (worldwide, multilingual)
