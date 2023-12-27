@@ -31,7 +31,7 @@ Legal court cases of `default` jurisdiction `DEFAULT_JURISDICTION`
 Technical high priority categories
 
  - CASE900 Hardware number indicators
- - CASE999 Financial/Financial credentials screenshots
+ - CASE999 Financial/Financial credentials screenshots (preferred providers)
  - Anonymized imagined printed goverment documents (jurisdiction agnostic)
  - Anonymized imagined printed medical documents (jurisdiction agnostic)
  - Mail labels (worldwide)
