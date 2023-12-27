@@ -19,7 +19,7 @@ This is test case that is run on commit to `main` branch of `Monorepo`
  - `#Dev`: everything thats needs to be run
  - Per commit regeneration For:
    - CASE1..CASE10: Anonymized Legal Court Test Cases
-   - CASE11..CASE49: XX + Serverstack OSS/private projects optimization - abstraction level reduction: XX to docker/XX to python and libs. XX may be hardware, may be cpu - CUDA operator scheduler access granter credentials issuer. First acceleration - aquire / partner with https://www.modular.com
+   - CASE11..CASE33: XX + Serverstack OSS/private projects optimization - abstraction level reduction: XX to docker/XX to python and libs. XX may be hardware, may be cpu - CUDA operator scheduler access granter credentials issuer. First acceleration - aquire / partner with https://www.modular.com
    - CASE12: Cross API function call fall through rewrite
    - CASE13: iOS app source code description
    - CASE14: iOS app source code description summarization
@@ -42,6 +42,22 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE32: Unused foundational BIOSes, drivers, disk utilitites, boot/debug tools, firmwares and other client side things
    - CASE32: Unused foundational all other client side things
    - CASE33: Unused foundational misc libraries
+   - CASE34: AR Glasses
+   - CASE35: Phone
+   - CASE36: Tablet
+   - CASE37: Phone AR
+   - CASE38: Computer
+   - CASE39: Ground Vehicle
+   - CASE40: Submersible Vehicle
+   - CASE41: Airplane
+   - CASE42: Airplane AR
+   - CASE43: Mavic Drone Android Phone Controller
+   - CASE44: Vision AR
+   - CASE45: Ship
+   - CASE46: Cityscapes
+   - CASE47: Bookshelf
+   - CASE48: Cat
+   - CASE49: Human
    - CASE50...CASE91: SwiftUI..UIKit..Quartz..Foundation..baremetal level rewrite for UISubstrate. First acceleration - reach out to Apportable Alumnis to hire
    - CASE92: Privately hosted frozen API compatible Telegram server constellation clone. Open Source code.
    - CASE93: Arbitrary instructions flat iOS/mac app. File/chat manager/Private Telegram-client only fork client/git repository provider-client.
