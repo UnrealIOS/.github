@@ -33,7 +33,7 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE1007..CASE1100: Anonymized:
       - CASE1008: Co-hosting and Credentials
       - CASE1009: Devnets and Demons
-      - CASE1099: Anonymized Everything but CASE1..110 claimant vs originals
+      - CASE1099: Anonymized Everything, except for CASES1..111 vs originals
    - CASE1100: 
 
 ## [CASE1..99](https://github.com/UnrealIOS/CASE1_99)
