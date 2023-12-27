@@ -59,6 +59,7 @@ This is test case that is run on commit to `main` branch of `Monorepo`
    - CASE48: Cat
    - CASE49: Human
    - CASE50...CASEXXXXX: SwiftUI..UIKit..Quartz..Foundation..baremetal level rewrite for UISubstrate. First acceleration - reach out to Apportable Alumnis to hire
+   - CASE51: APPREDUX - UnrealIOS to baremetal API iterative level removal rewrite
    - CASE52: Human/Cat Commune Habitat
    - CASE53: SpaceshipLivingQuaters
    - CASE54: Spaceship
