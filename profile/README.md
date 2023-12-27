@@ -37,7 +37,7 @@ Technical high priority categories
  - Mail labels (worldwide)
  - Supermarket on shelf price labels (worldwide)
  - Groceries nutritional information (worldwide)
- - Drug packaging/in-package printed doc scans/photos (worldwide)
+ - Pharmacy drug packaging/in-package printed doc scans/photos (worldwide)
 
 
 
