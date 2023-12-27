@@ -32,6 +32,11 @@ Technical high priority categories
 
  - CASE900 Hardware number indicators
  - CASE999 Financial/Financial credentials screenshots (preferred providers)
+ - Online shopping screenshots (preffered providers)
+ - Taxi rides screenshots (preffered providers)
+ - Hotel booking screenshots (preffered providers)
+ - Flight/train purchase screenshots/tickets (preffered providers)
+ - Photos/screenshots of offline events/places (worldwide)
  - Anonymized imagined printed goverment documents (jurisdiction agnostic)
  - Anonymized imagined printed medical documents (jurisdiction agnostic)
  - Mail labels (worldwide)
