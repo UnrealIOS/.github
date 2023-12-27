@@ -87,6 +87,30 @@ Huge cases
    - CASE10001 US Paper Mail Scan Dump
    - CASE10002 Email dump
    - CASE10003 Any image/video
+   - Pshychology/Affiliated Sciences Book Dump/Text Fragment Level Recognizer
+   - All Math Book Regurgitation
+      - Seriously, any Math!
+      - AI Generated Silly Math manual block list
+   - Medically Affiliated Natural Sciences Book Regurgitation. Pshychology/Affiliated is Excluded!
+      - Physics
+      - Biophyiscs
+      - Chemistry
+      - ...etc
+   - Compilers and Operating Systems Regurgitation
+   - Graphics Regurgitation - minus Artistic Graphics and Historical Graphics
+   - Computational Sciences Book Regurgitation - minus Compilers and Operating Systems, minus Graphics
+      - All Math Book Regurgitation - only mentioned
+      - All ML
+      - All Algorithms
+      - All Databases
+      - Any Computer Vision
+   - Engineering Sciences Book Regurgitation
+   - Medical Sciences Book Regurgitation. Pshychology/Affiliated is Excluded!
+   - Human Book - Medical Sciences Book Regurgitation Summarization for full reading
+   - Nature Book - Engineering Sciences Book Regurgitation + Medically Affiliated Natural Sciences Book Regurgitation Summarization for full reading
+   - Friends Book - Medically Affiliated Natural Sciences Book Regurgitation + Selected Veterinary Science Books Summarization for full reading
+   - Python Data Science Handbook
+   - Swift System Engineer Handbook
 
 🙋‍♀️ A short introduction - what is your organization all about?
 
