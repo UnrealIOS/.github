@@ -1,6 +1,6 @@
 # [Product](https://github.com/UnrealIOS/UnrealIOS)
 
-All-in-one system for computers to analyze, manage, edit, discover and surface data
+System for computers and devices to analyze, manage, edit, discover and surface data
 
 # Onboarding
 
