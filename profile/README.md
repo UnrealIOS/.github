@@ -32,6 +32,7 @@ Technical high priority categories
 
  - CASE900 Hardware number indicators
  - CASE999 Financial/Financial credentials screenshots (preferred providers)
+ - Photos of printed payment receipts in any form (preffered jurisdiction only)
  - Online shopping screenshots (preffered providers)
  - Taxi rides screenshots (preffered providers)
  - Hotel booking screenshots (preffered providers)
