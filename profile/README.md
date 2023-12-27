@@ -45,6 +45,8 @@ Technical high priority categories
  - Pharmacy drug packaging/in-package printed doc scans/photos (worldwide)
  - Photos/screenshots containing phone number
  - Photos/screenshots containing street address or any other way pinpoint location
+ - Photos/screenshots containing 12 words, keys, or password enter fields
+ - Anonymized photos/screenshots containing any non-celebrity personal information 
 
 
 
