@@ -114,7 +114,7 @@ Huge cases
    - Wikipedia Geo Places Annotation - History included (worldwide, multilingual)
    - Wikipedia Web Domain Names Annotation (worldwide, multilingual)
    - Wikipedia Celebrities Annotation English
-   - Wikipedia MMAFighters Annotation English
+   - Wikipedia/Video MMAFighters Annotation English
    - Wikipedia TVShows/Movies/MoviePersonalities Annotation English
    - Wikipedia Songs Annotation (worldwide, multilingual)
    - Wikipedia History Book Regurgitation English
