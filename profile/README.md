@@ -104,6 +104,7 @@ each case has 2 websites opened side by side in tabs:
  - CASE-20: Real War Gore
  - CASE-21: Generated War Gore
  - CASE-22: Rendered War Gore
+ - same for Human Corpse Dissection, All Adult Porn Categories, Fight Genre
 
 
 ## [CASE0](https://github.com/UnrealIOS/CASE0)
