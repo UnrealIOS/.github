@@ -8,7 +8,7 @@ linkedin meets VSCode for instant Eth earning by working on preffered open sourc
 
 text editor to screen Movie generator
 
-Book/Movie/Apps/Music publishing/Distribution system
+Book/Movie/Software/Music/Games/Assets/Physical Goods publishing/Distribution system
 
 
 
