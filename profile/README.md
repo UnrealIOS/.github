@@ -129,6 +129,7 @@ Generation must be triggered manually to prevent accidental generation of malwar
      - All Agro Vehicles Brands and Models and Years
      - All Trains Brands and Models and Years
      - All Ship Brands and Models and Years
+     - All Phones/Tablets/Laptops/AR/VR/Consoles Brands and Models and Years
 
 ## [CASE0](https://github.com/UnrealIOS/CASE0)
 
