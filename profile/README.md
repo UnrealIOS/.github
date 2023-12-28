@@ -39,6 +39,7 @@ each case has 2 websites opened side by side in tabs:
  - imagined supporter copy
  - sign up with email button 
  - sign up with metamask button/donate eth button with viewed/reacted on material tracking and AB testing
+   - Eth contract sending an access token to buyer 
 
 
 ### Developer Home
