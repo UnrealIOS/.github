@@ -379,6 +379,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
 
  - Technical
    - Autonomous DAO AI Aligment: open pre-prompt and post-prompt with ability to be modified by human oracles - holders of any of 10000 pre minted keys. Activated keys majority voting for destruction of individual keys or for minting of next key block
+  - Autonomous DAO AI Aligment Overwatch: automatic suspension of misbehaving keys and website for human oracles suspension cases discussion/voting
 
 
 
