@@ -421,6 +421,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Liberate Apple TV
   - Liberate Mac Studio
   - Demo each Liberation in Game
+  - Liberate Mavic Class Civilian Minivan Carrier
   
 
 
