@@ -400,6 +400,9 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Liberate select devices
     - Roli Blocks
     - Xbox game controllers preffered
+  - Liberate all consoles
+  - Liberate all headsets
+  - Liberate Apple Land
   
 
 
