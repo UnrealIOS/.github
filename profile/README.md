@@ -593,11 +593,11 @@ Movies:
  - Herods's Chariot
  - Temperance of Athens' Law Giver
  - The Devil Of PRIORITY_TARGET_CITY
- - The Star for Human - 1 (seed ship, interstellar travel, eternal star orbiting)
- - The Moon for Human - 1 (seed ship, planet landing, deployement)
- - The Sun for Human - 1 (seed ship, eternal star orbiting)
+ - The Star of Mankind - 1 (seed ship, interstellar travel, eternal star orbiting)
+ - The Moon of Mankind - 1 (seed ship, planet landing, deployement)
+ - The Sun of Mankind - 1 (seed ship, eternal star orbiting)
  - Ptolemy's Judgement (Judge in one of Paul's Cases)
- - The World for Human - 1 (seed ship, planet landing, deployment)
+ - The World of Mankind - 1 (seed ship, planet landing, deployment)
  - Greek/Roman/Cuneiform period personality pieces, everyone known during, between and prior
  - Cuneiform period accounting
 
