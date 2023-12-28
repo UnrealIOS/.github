@@ -106,7 +106,7 @@ Generation must be triggered manually to prevent accidental generation of malwar
  - CASE-20: Real War Gore
  - CASE-21: Generated War Gore
  - CASE-22: Rendered War Gore
- - CASE-1000000000..9999999999-same for Human Corpse Dissection with Human Organs Location and Function Matrix/Hierarchy, All Adult Porn Categories, Fight Genres (mma, jiujitsu) ! potentially will block file system lookup! Watch out! 
+ - CASE-1000000000..9999999999-same for Human Corpse Dissection with Human Organs Location and Function Matrix/Hierarchy, All Adult Porn Categories, Fight Genres (mma, jiujitsu), Wikipedia Articles and Fandom Named Entities, Words of Languages, Languages, etc: All not mentioned outside of this block Entities excluding User
 
 ## [CASE0](https://github.com/UnrealIOS/CASE0)
 
