@@ -296,6 +296,7 @@ Wide spectrum of categories cases with manual curation of the documents, for exa
   - Lucrative&Sensible
     - iOSEthTrustRulesCameraWitnessSex
     - iOSEthTrustRulesCameraWitnessFight
+    - iOSEthTrustCameraWitnessHumanJudge
     - iOSEthTrustCameraWitnessOracle
 
 
