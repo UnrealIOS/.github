@@ -581,7 +581,7 @@ Attack enemy targets using Chess War Strategy
 Movies:
  - Acts of Paul
  - Life of Mohammed (censored by 🕌of🇺🇦)
- - Strenght Moses
+ - Strenght of Moses
  - Adam...Jesus and all pan-Abrahamic saints, Mormon's first leader included, cut off by date after
  - Lovers of Sapho
  - Death of Saint Peter full fidelity
