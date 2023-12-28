@@ -405,9 +405,12 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Liberate Apple Land
   - Liberate Apple Land baremetal
   - Liberate Apple Land drivers
-
-
-
+  - Liberate Tesla (preffered jurisdictions only)
+  - Liberate wide zoo of cars
+  - Liberate Fighter Class drive-by-wire protocol only select singular
+  - Liberate Fighter Class avionics telemetry protocol only select singular
+  - Liberate Fighter Class nav protocol only select singular
+  - Liberate Fighter Class target protocol only select singular
 
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
