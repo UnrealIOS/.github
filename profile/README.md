@@ -411,6 +411,10 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Liberate Fighter Class avionics telemetry protocol only select singular
   - Liberate Fighter Class nav protocol only select singular
   - Liberate Fighter Class target protocol only select singular
+  - Liberate Fighter Class on board computers software select singular
+  - Liberate Fighter Class on board computers drivers select singular
+  - Liberate Fighter Class on board computers firmware select singular
+  - Liberate Fighter Class on board computers bootloaders select singular
 
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
