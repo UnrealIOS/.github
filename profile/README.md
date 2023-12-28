@@ -438,6 +438,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Mobile CarMechanic gasoline engines fixing AR application
   - Mobile PilotTutor in cockpit operation AR application
   - Mobile PilotTutorATC in cockpit ATC voice chat hints/navigation visualization AR application
+  - Mobile Collaborative Text Editor/Githib Repo reader with automatic back-forth translation eng-ukr-ru-heb-hbo-smp-obm-xdm-arq-acy-aao-auz-(+ rest of ara)-lat-grc-(+ rest of greek ISO 639-3)-akk-(+ rest of cuneiform age)
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
