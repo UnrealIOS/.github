@@ -403,7 +403,8 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Liberate all consoles
   - Liberate all headsets
   - Liberate Apple Land
-  
+  - Liberate Apple Land baremetal
+  - Liberate Apple Land drivers
 
 
 
