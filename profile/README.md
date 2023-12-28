@@ -597,7 +597,7 @@ Movies:
  - The Moon of Mankind - 1 (seed ship, planet landing, deployement)
  - The Sun of Mankind - 1 (seed ship, eternal star orbiting)
  - Ptolemy's Judgement (Judge in one of Paul's Cases)
- - The World of Mankind - 1 (seed ship, planet landing, deployment)
+ - The World of Mankind - 1 (seed ship, Solar planet landing, deployment)
  - Greek/Roman/Cuneiform period personality pieces, everyone known during, between and prior
  - Cuneiform period accounting
 
