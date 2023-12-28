@@ -483,6 +483,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - CASE: Hallucinated Mobile Physical Items Marketplace App Physical Items Category Hierarchy
   - CASE: Hallucinated Mobile Physical Items Marketplace App Physical Items Characteristics Hierarchy
   - CASE: Hallucinated Mobile Physical Items Marketplace App Electronic Goods Distribution Hierarchy/Device trivia
+  - CASE: Hallucinated Mobile Physical Items Marketplace App Physical Items Distribution Hierarchy/Per country mail services trivia
   - 
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
