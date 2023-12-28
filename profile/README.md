@@ -584,7 +584,7 @@ Movies:
  - Moses's Uprising
  - Adam...Jesus and all pan-Abrahamic saints, Mormon's first leader included, cut off by date after
  - Lovers of Sapho
- - Death of Lenin st Peter full fidelity
+ - Death of Saint Peter full fidelity
  - Tower of Doom PRIORITY_TARGET 
  - Wheel of Caesar
  - Acts of Nero
