@@ -581,16 +581,23 @@ Attack enemy targets using Chess War Strategy
 Movies:
  - Acts of Paul
  - Life of Mohammed (censored by 🕌of🇺🇦)
- - Moses's Uprising
+ - Strenght Moses
  - Adam...Jesus and all pan-Abrahamic saints, Mormon's first leader included, cut off by date after
  - Lovers of Sapho
  - Death of Saint Peter full fidelity
- - Tower of Doom PRIORITY_TARGET 
- - Wheel of Caesar
+ - Tower of PRIORITY_TARGET_CITY
+ - Justice of Caesar
  - Acts of Nero
- - Ploeny's Judgement
- - Judas Loop
+
+ - The Hanged Judas
  - Herods's Chariot
+ - Temperance of Athens' Law Giver
+ - The Devil Of PRIORITY_TARGET_CITY
+ - The Star for Human - 1
+ - The Moon for Human - 1
+ - The Sun for Human - 1
+ - Ptolemy's Judgement (Judge in one of Paul's Cases)
+ - 
  - Greek/Roman/Cuneiform period personality pieces, everyone known during, between and prior
  - Cuneiform period accounting
 
