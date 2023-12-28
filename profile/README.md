@@ -479,6 +479,11 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Mobile Collaborative Text Editor/Website browser/Copyleft library Book Reader with automatic back-forth translation eng-ukr-ru-heb-hbo-smp-obm-xdm-arq-acy-aao-auz-(+ rest of ara)-lat-grc-(+ rest of greek ISO 639-3)-akk-(+ rest of cuneiform age)+any fictional and esoteric, Markdown, iPynb, rendered Markdown, rendered iPynb * of all computer program languages (matrix). $LANG_SET
   - Video File Player with Karaoke subtitles and automatic translation (same LANG_SET) --disable-program-languages
   - Mobile Scripture to Movie App Generator / Reader --mormon-book-default
+  - CASE: Hallucinated Mobile Physical Items Marketplace App
+  - CASE: Hallucinated Mobile Physical Items Marketplace App Physical Items Category Hierarchy
+  - CASE: Hallucinated Mobile Physical Items Marketplace App Physical Items Characteristics Hierarchy
+  - CASE: Hallucinated Mobile Physical Items Marketplace App Electronic Goods Distribution Hierarchy/Device trivia
+  - 
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
