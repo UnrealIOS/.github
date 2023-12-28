@@ -6,7 +6,7 @@ kickstarter for software and gadgets with Eth trust human oracle court based del
 
 linkedin meets VSCode for instant Eth earning by working on preffered open source software
 
-
+text editor to screen Movie generator
 
 our approach to computing: User on User's device needs only one software/content set - vendored by developers of this repository. It should be tailored to User's needs; User should be able to participate in it's development and optionally pay for it to increase autogeneration speed/developer human helpers impressions of that Case.
 
