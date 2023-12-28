@@ -396,6 +396,10 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
     - same for architecture, geo/survailance, city planning 
   - Open Maya UI copy rewrite
     - All friends, from Ableton to Photoshop, (Include Roli Connect and Maschine) including All Brushes and Sculptors, Each Game Engine of Unity, Unreal, Apple Engine of the year
+
+  - Liberate select devices
+    - Roli Blocks
+    - Xbox game controllers preffered
   
 
 
