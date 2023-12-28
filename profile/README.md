@@ -416,6 +416,10 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Liberate Fighter Class on board computers firmware select singular
   - Liberate Fighter Class on board computers bootloaders select singular
   - Liberate best of Canon and Nikon
+  - Liberate Apple Watch
+  - Liberate Apple TV
+  - Liberate Mac Studio
+  
 
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
