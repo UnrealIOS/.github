@@ -42,6 +42,12 @@ each case has 2 websites opened side by side in tabs:
    - Eth contract sending an access token to buyer 
 
 
+### Developer Docs Website/API
+
+ - automatically documents all code/provides side to side comparison with relevant human written verbatim lines
+ - JSON API version
+ - Web interface for networking APIs testing/remote function call on test class instance
+
 ### Developer Home
 
  - link to VSCode
