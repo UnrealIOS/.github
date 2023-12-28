@@ -545,6 +545,8 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - AntiLifeRecepticle
   - AntiLife40ftContainerStorage
   
+AntiLife list
+
 human cancer proteins
 
 human and friends and food and neigbours receptors (all pets, canonized food staple species, domestics, rats, bats, pigs, agro hoofed, exotic food, all monkeys, chicken, pigeons, rest of city, agro, game birds)
