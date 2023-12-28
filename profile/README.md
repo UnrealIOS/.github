@@ -383,6 +383,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
 
   - Popular OSS video codec backdoor for CP payload bootloader
   - Github codec backdoor continious deploy Operation
+  - Select Trackers preffered historical binaries bundle repackaging distribution Operation
 
 
 
