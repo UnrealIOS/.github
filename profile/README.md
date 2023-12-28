@@ -34,6 +34,11 @@ each case has 2 websites opened side by side in tabs:
  - imagined user features
  - imagined target audience
  - imagined market analysis
+ - imagined team
+ - imagined tech stack
+ - imagined tech description
+ - imagined whitepaper
+ - imagined hire copy
  - imagined investor copy
  - imagined buyer copy
  - imagined supporter copy
