@@ -82,6 +82,8 @@ each case has 2 websites opened side by side in tabs:
 
 ## [CASE-1] Other CASE Catalogues
 
+Generation must be triggered manually to prevent accidental generation of malware
+
  - CASE-1: Imagined marketing CASE features catalogue
  - CASE-2: All Linkable Code
  - CASE-3: All Build Systems
