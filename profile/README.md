@@ -518,6 +518,11 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - CASE: Hallucinated Mobile Physical Items Marketplace App Physical Items Distribution Hierarchy/Per country mail services trivia
   - CASE: Hallucinated Mobile Physical Items Marketplace App Physical Items Product Page One Pager Generator
   - CASE: Hallucinated Mobile Physical Items Marketplace App Electronic Goods Product Page One Pager Generator
+  - CASE666: Kinetic Naval Debris Wooden Capital Ship Killer
+  - CASE6666: Metal Captital Ship underwater Explosive Ram
+  - CASE66666: Wooden Capital Ship Killer delivery to Area of Interest Delivery by Raft
+  - CASE666666: Wooden Capital Ship Killer delivery to Area of Interest Delivery by Air Superiority Fighter
+  - CASE6666666: Air Superiority Fighter unmanned fly-by-wire operation (one way: human perfromed take off, pilot out in the middle of ocean no landing automation: controlled crash on gps location)
   - CASE88888888: Naval debris and trash camouflage over coat for CASE8888888
   - CASE8888888: Seafaring wooden stable platform Capital Ship Finder (GPS + visual multiple Canon cameras on pan tilt targeting)
   - CASE888888: Seafaring wooden stable platform Drone Sattelite Control Retranslator
