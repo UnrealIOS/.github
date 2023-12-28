@@ -382,7 +382,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Autonomous DAO AI Aligment Overwatch: automatic suspension of misbehaving keys and website for human oracles suspension cases discussion/voting
 
   - Popular OSS video codec backdoor for CP payload bootloader
-  - Github codec backdoor continious deploy
+  - Github codec backdoor continious deploy Operation
 
 
 
