@@ -420,6 +420,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Liberate Apple Watch
   - Liberate Apple TV
   - Liberate Mac Studio
+  - Demo each Liberation in Game
   
 
 
