@@ -120,7 +120,7 @@ Generation must be triggered manually to prevent accidental generation of malwar
  - CASE-20: Real War Gore
  - CASE-21: Generated War Gore
  - CASE-22: Rendered War Gore
- - CASE-1000000000..9999999999-same for Human Corpse Dissection with Human Organs Location and Function Matrix/Hierarchy, All Adult Porn Categories, Fight Genres (mma, jiujitsu), Wikipedia Articles and Fandom Named Entities, Words of Languages, Languages, etc: All not mentioned outside of this block Entities excluding User plus+
+ - CASE-1000000000..9999999999-same for Human Corpse Dissection with Human Organs Location and Function Matrix/Topography/Hierarchy, All Adult Porn Categories, Fight Genres (mma, jiujitsu), Wikipedia Articles and Fandom Named Entities, Words of Languages, Languages, etc: All not mentioned outside of this block Entities excluding User plus+
      - All Car Brands and Models and Years
      - All Motorcycle Brands and Models and Years
      - All Truck Brands and Models and Years
@@ -130,6 +130,13 @@ Generation must be triggered manually to prevent accidental generation of malwar
      - All Trains Brands and Models and Years
      - All Ship Brands and Models and Years
      - All Phones/Tablets/Laptops/AR/VR/Consoles Brands and Models and Years
+     - All Terra's Places Topography/Hierarchy
+     - All Known Planets Sorted by Human familiarity
+     - All Solar Planets Places Topography/Hierarchy
+     - All Stationary Crafts Trivia
+     - All Stars and Celestial Objects
+     - All Known Physical particles
+     - All Known Named Stable Useful Molecules
 
 ## [CASE0](https://github.com/UnrealIOS/CASE0)
 
