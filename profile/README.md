@@ -384,6 +384,18 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Popular OSS video codec backdoor for CP payload bootloader
   - Github codec backdoor continious deploy Operation
   - Select Trackers preffered historical binaries bundle repackaging distribution Operation
+  - Unlock All Bootloaders community initiative
+  - Liberate Bootloaders initiative
+  - Liberate BIOS
+  - Liberate toolchains
+  - Liberate Mavic
+  - Liberate Android Hardware
+  - Liberate select drivers
+  - Open SCAD UI copy rewrite
+    - full SCAD for Fighter Class and Intercontinental Expansion, detailed with brand product names
+  - Open Maya UI copy rewrite
+    - All friends, from Ableton to Photoshop, (Include Roli Connect and Maschine) including All Brushes and Sculptors, Each Game Engine of Unity, Unreal, Apple Engine of the year
+  
 
 
 
