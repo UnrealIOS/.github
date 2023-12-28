@@ -31,28 +31,28 @@ each case has 2 websites opened side by side in tabs:
 
  - readonly chatbot aware of that case data and everything else explicitly exposed to the public case chatbot
  - twitter hashtag realtime chat window
- - case specific Telegram file attachemnt submission drop-in / attach button
- - user stories / features with simulator UI testing screencast
- - changelog / release bundle history
- - expo photo
- - imagined screenshot
- - imagined names of marketing image materials
+ - specific Telegram file attachemnt submission drop-in / attach button
+ - CASE user stories / features with simulator UI testing screencast
+ - CASE changelog / release bundle history
+ - CASE expo photo
+ - CASE imagined screenshot
+ - imagined choice of names of marketing image materials
     - marketing image materials by name
- - imagined names of marketing text materials
+ - imagined choice of names of marketing text materials
     - marketing text materials by name
- - imagined ad
- - imagined marketing description
- - imagined user features
- - imagined target audience
- - imagined market analysis
- - imagined team
- - imagined tech stack
- - imagined tech description
- - imagined whitepaper
- - imagined hire copy
- - imagined investor copy
- - imagined buyer copy
- - imagined supporter copy
+ - CASE imagined ad
+ - CASE imagined marketing description
+ - CASE imagined user features
+ - CASE imagined target audience
+ - CASE imagined market analysis
+ - CASE imagined team
+ - CASE imagined tech stack
+ - CASE imagined tech description
+ - CASE imagined whitepaper
+ - CASE imagined hire copy
+ - CASE imagined investor copy
+ - CASE imagined buyer copy
+ - CASE imagined supporter copy
  - sign up with email button 
  - sign up with metamask button/donate eth button with viewed/reacted on material tracking and AB testing
    - Eth contract sending an access token to buyer 
