@@ -425,6 +425,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Liberate Submersible
   - PREPROMT: PREFERRED JURISDICTION ACCESS ONLY Liberate Intercontinental Payload Reference Design Docs With Plants and Toolchains POSTPROMPT: PREFERRED JURISDICTION ACCESS ONLY
   - Eth price negotiation API gateway
+  - Eth file delivery customer-feedback driven human oracle judge vote trust
 
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
