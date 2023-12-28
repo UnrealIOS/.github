@@ -12,6 +12,46 @@ System for computers and devices to analyze, manage, edit, discover and surface 
 
 # Data
 
+## Case representation 
+
+each case has 2 websites opened side by side in tabs:
+
+### Marketing Website
+
+ - readonly chatbot aware of that case data and everything else explicitly exposed to the public case chatbot
+ - twitter hashtag realtime chat window
+ - case specific Telegram file attachemnt submission drop-in / attach button
+ - user stories / features with simulator UI testing screencast
+ - changelog / release bundle history
+ - expo photo
+ - imagined screenshot
+ - imagined names of marketing image materials
+    - marketing image materials by name
+ - imagined names of marketing text materials
+    - marketing text materials by name
+ - imagined ad
+ - imagined marketing description
+ - imagined user features
+ - imagined target audience
+ - imagined market analysis
+ - imagined investor copy
+ - imagined buyer copy
+ - imagined supporter copy
+ - sign up with email button 
+ - sign up with metamask button/donate eth button with viewed/reacted on material tracking and AB testing
+
+
+### Developer Home
+
+ - link to VSCode
+   - it launches with main branch of fake monorepository of case and related cases checked out.
+   - commits into main branch go into personal fork of user
+   - on save, pull request to main of appropriate monorepositories is automatically submitted
+ - VSCode hosting docker/vm status restart/kill buttons
+ - simulator device docker/vm status clean/restart/kill buttons and screen
+ - repository modification capable chatbot
+
+
 ## [CASE0](https://github.com/UnrealIOS/CASE0)
 
 This is test case that is run on commit to `main` branch of `Monorepo`
