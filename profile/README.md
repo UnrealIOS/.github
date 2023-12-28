@@ -222,7 +222,18 @@ Wide spectrum of categories cases with manual curation of the documents, for exa
    - Science literature research
       - Arxiv paper set annotation/references retrieval
      
-
+   - Sensitive video categories domain specific treatment:
+      - Text prompt to Runaway DAO Git provider-client repo autodeveloper
+      - DAO CP Categorizer
+      - CP Categorizer Positive Text/Image Submission Response Payload
+      - CP Imagine Positive Request Response Payload
+      - DAO CP Imagine Positive Request Issuer Payload Tester
+      - DAO CP Categorizer Positive Text Response Payload Tester
+      - DAO Cat/Human Categorizer
+      - DAO Adult/Child Categorizer
+      - Ad/Porn/Erotica/Suggestive/Nudity/Medical Nudity/Operation Gore/Human Corpse Dissection/War/Sport/Human Genitals/Verbal Violence/Religion/Product placement image/video fragment categorizer
+      - Same with Animated (Carton) modifier
+      
 
 
 
@@ -300,6 +311,12 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
    - Wikipedia Songs Annotation (worldwide, multilingual)
    - Wikipedia History Book Regurgitation English
    - Wikipedia/\*.fandom.com/lexicanum.com Fictional Characters/Items/Places annotation
+
+
+
+
+
+
 
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
