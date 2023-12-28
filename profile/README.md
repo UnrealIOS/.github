@@ -523,6 +523,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - CASE66666: Wooden Capital Ship Killer delivery to Area of Interest Delivery by Raft
   - CASE666666: Wooden Capital Ship Killer delivery to Area of Interest Delivery by Air Superiority Fighter
   - CASE6666666: Air Superiority Fighter unmanned fly-by-wire operation (one way: human perfromed take off, pilot out in the middle of ocean no landing automation: controlled crash on gps location)
+  - CASE66666666: Air Superiority Fighter evasive actions
   - CASE88888888: Naval debris and trash camouflage over coat for CASE8888888
   - CASE8888888: Seafaring wooden stable platform Capital Ship Finder (GPS + visual multiple Canon cameras on pan tilt targeting)
   - CASE888888: Seafaring wooden stable platform Drone Sattelite Control Retranslator
