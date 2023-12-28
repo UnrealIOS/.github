@@ -538,8 +538,8 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - 2 Standart 40ft Shipping Container Sized Interstellar Seedship
   - Standart 40ft Shipping Container Sized Intercontinental Delivery Vehicle
     
-
-
+  - Life pleasant menagerie: receptors list minus exotics, dangerous
+  - Life full zoo: receptors list
 
 
 all known viruses and bacteria
