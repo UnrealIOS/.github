@@ -540,10 +540,11 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
     
   - Life pleasant menagerie: receptors list minus exotics, dangerous
   - Life full zoo: receptors list
-
-
-all known viruses and bacteria
-
+  - AntiLife: all known viruses and bacteria, individually packed into container conservation device, in multiple 40ft layouts
+  - AntiLifeSpeciesContainer
+  - AntiLifeRecepticle
+  - AntiLife40ftContainerStorage
+  
 human cancer proteins
 
 human and friends and food and neigbours receptors (all pets, canonized food staple species, domestics, rats, bats, pigs, agro hoofed, exotic food, all monkeys, chicken, pigeons, rest of city, agro, game birds)
