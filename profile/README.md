@@ -136,7 +136,8 @@ Generation must be triggered manually to prevent accidental generation of malwar
      - All Stationary Crafts Trivia
      - All Stars and Celestial Objects
      - All Known Physical particles
-     - All Known Named Stable Useful Molecules
+     - All Known Named Stable Useful Molecules: default_jurisdiction warning appendum/modifier prompt per Molecule
+     - 
 
 ## [CASE0](https://github.com/UnrealIOS/CASE0)
 
