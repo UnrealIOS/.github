@@ -1,3 +1,5 @@
+our approach to computing: User on User's device needs only one software/content set - vendored by developers of this repository. It should be tailored to User's needs; User should be able to participate in it's development and optionally pay for it to increase autogeneration speed/developer human helpers impressions of that Case.
+
 # [Product](https://github.com/UnrealIOS/UnrealIOS) CaseStoreWithHalfAutomaticallyContiniouslyDevelopingAppsSELECTUserGeneratedMoviesSongsBooksOfflineOnCameraDeeds@LIBERATED_PLATFORMS for $PREFFERED_JURISDICTION
 
 System for computers and devices to analyze, manage, edit, discover and surface public and user data
