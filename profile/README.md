@@ -440,7 +440,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Mobile PilotTutorATC in cockpit ATC voice chat hints/navigation visualization AR application
   - Mobile Collaborative Text Editor/Website browser/Copyleft library Book Reader with automatic back-forth translation eng-ukr-ru-heb-hbo-smp-obm-xdm-arq-acy-aao-auz-(+ rest of ara)-lat-grc-(+ rest of greek ISO 639-3)-akk-(+ rest of cuneiform age)+any fictional and esoteric, Markdown, iPynb, rendered Markdown, rendered iPynb * of all computer program languages (matrix). $LANG_SET
   - Video File Player with Karaoke subtitles and automatic translation (same LANG_SET) --disable-program-languages
-  - Mobile Scripture to Movie App Generator / Reader
+  - Mobile Scripture to Movie App Generator / Reader --mormon-book-default
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
