@@ -428,6 +428,8 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Eth file delivery customer-feedback driven human oracle judge vote trust
   - Prompt driven Unreal Movie generator
   - Prompt driven Stable Diffusion-style Movie generator
+  - Prompt driven Unreal architecture SCAD
+  - Prompt driven Unreal Fighter Class SCAD
 
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
