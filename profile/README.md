@@ -231,7 +231,7 @@ Wide spectrum of categories cases with manual curation of the documents, for exa
       - DAO CP Categorizer Positive Text Response Payload Tester
       - DAO Cat/Human Categorizer
       - DAO Adult/Child Categorizer
-      - Ad/Porn/Erotica/Suggestive/Nudity/Medical Nudity/Operation Gore/Human Corpse Dissection/War/Sport/Human Genitals/Verbal Violence/Religion/Product placement image/video fragment categorizer
+      - Ad/Adult Porn+Erotica/Suggestive/Nudity/Medical Nudity/Operation Gore/Human Corpse Dissection/War/Sport/Human Genitals/Verbal Violence/Religion/Product placement image/video fragment categorizer
       - Same with Animated (Carton) modifier
       
 
