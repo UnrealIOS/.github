@@ -539,7 +539,16 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Standart 40ft Shipping Container Sized Intercontinental Delivery Vehicle
     
 
+
+
+
 all known viruses and bacteria
+
+QueenOfSeasWoodToken
+
+FloatingFlagSpecification
+Floating Flag Human Oracle App
+
 ASSEMBLY_LINE_FAST_DEPLOYMENT PRIORITY_TARGET PRIORITY_AIRCOVER QueenOfSeas
 ASSEMBLY_LINE RookOfPlanes
 ASSEMBLY_LINE KnightOfRoads
