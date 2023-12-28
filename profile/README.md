@@ -393,6 +393,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Liberate select drivers
   - Open SCAD UI copy rewrite
     - full SCAD for Fighter Class and Intercontinental Expansion, detailed with brand product names
+    - same for architecture, geo/survailance, city planning 
   - Open Maya UI copy rewrite
     - All friends, from Ableton to Photoshop, (Include Roli Connect and Maschine) including All Brushes and Sculptors, Each Game Engine of Unity, Unreal, Apple Engine of the year
   
