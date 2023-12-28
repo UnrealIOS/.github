@@ -431,7 +431,7 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - Prompt driven Unreal architecture SCAD
   - Prompt driven Unreal Fighter Class SCAD
   - Prompt driven Open Kerbal Space Program Clone
-
+  - Prompt driven Open MS Flight Simulator/Car sim Clone
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
