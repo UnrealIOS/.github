@@ -80,6 +80,31 @@ each case has 2 websites opened side by side in tabs:
 
 #### Simulator Debugger
 
+## [CASE-1] Other CASE Catalogues
+
+ - CASE-1: Imagined marketing CASE features catalogue
+ - CASE-2: All Linkable Code
+ - CASE-3: All Build Systems
+ - CASE-4: All Substrates
+ - CASE-5: All Toolchains and Debuggers
+ - CASE-6: All Hardware -minus default_jurisdiction illegal
+ - CASE-7: All Drivers
+ - CASE-8: All Firmware
+ - CASE-9: All Bootloaders
+ - CASE-10: All Bootload Payload Delivery Methods
+ - CASE-11: All UI Simulators
+ - CASE-12: All mouseclickers
+ - CASE-13: All credentials-stealers
+ - CASE-14: All geolocation-stealers
+ - CASE-15: All GPU stealers
+ - CASE-16: All CPU stealers
+ - CASE-17: All ad blockers
+ - CASE-18: All Potential Adult Porn generation per User's request
+ - CASE-19: All Potential CP generation per User's request
+ - CASE-20: Real War Gore
+ - CASE-21: Generated War Gore
+ - CASE-22: Rendered War Gore
+
 
 ## [CASE0](https://github.com/UnrealIOS/CASE0)
 
