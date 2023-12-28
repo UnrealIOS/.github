@@ -531,8 +531,13 @@ Huge cases, or "manual regeneration only" small cases (such as annually updatabl
   - CASE8888: Drone pod
   - CASE888: Drone
   - CASE88: Drone control over Network
+  - Standart 40ft Shipping Container sized layout of all chess pieces and cards assembly lines and their products
+  - Standart 40ft Shipping Container disguised Drone Constellation Carrier
+  - Standart 40ft Shipping Container Life minus Human Cryo storage/Habitat
+  - Standart 40ft Shipping Container Humanoid Robot Interstellar Payload
+  - 2 Standart 40ft Shipping Container Sized Interstellar Rocket Carrier
 
-
+    
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
