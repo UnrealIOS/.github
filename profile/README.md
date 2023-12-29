@@ -12,6 +12,12 @@ Deploy all onboard vehicles
 
 Deploy Human Team
 
+Rooks ATTACK
+
+Rooks TARGET seleect
+
+Rooks Human Control
+
 Deploy Human Team Assist
 
 Rooks forward
