@@ -14,6 +14,10 @@ Deploy Human Team
 
 Deploy Human Team Assist
 
+Rooks forward
+
+Deploy Rooks
+
 Deliver Queen of Swords and Her Entourage, Court, Guard and Incursion, their onboard devices, Knights and Bishops, Human Team Assist, Human Team
 
 Build Queen of Swords and Her friends
