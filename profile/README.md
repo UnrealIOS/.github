@@ -12,7 +12,7 @@ Deploy all onboard vehicles
 
 Deploy Human Team
 
-Rooks ATTACK
+Rooks MODE_FULL_SWEEP
 
 Rooks ATTACK_TARGET_SELECT
 
