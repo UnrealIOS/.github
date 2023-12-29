@@ -1,3 +1,8 @@
+translate all Markdown files into English in place
+
+translate all Markdown files into ukr.md
+
+
 assign CASE numbers and CASE ranges to all CASEs in this file
 
 in all files everywhere keep CASE numbers consistent with this file
