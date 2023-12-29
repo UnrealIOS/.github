@@ -42,7 +42,19 @@ Imagine Queen of Batons (raft/fixed wing)
 
 Imagine Queen of Cups (raft/multirotor ports)
 
+
+Render QueenOfAllSeas
+
+Render QueenOfAllSeas Human Team
+
+Render QueenOfAllSeas Human Team Assist
+
+
 Imagine QueenOfAllSeas: preflight, taxing, takeoff, landing, battlestations: nav, com, atc, hangar, elevator, engine, cannons, radar, fleet control room 
+
+Imagine QueenOfAllSeas Human Team
+
+Imagine QueenOfAllSeas Human Team Assist
 
 Unreal QueenOfAllSeas RunwayOnly
 
