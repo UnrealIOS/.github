@@ -1,4 +1,4 @@
-Imagine QueenOfAllSeas
+Imagine QueenOfAllSeas: preflight, taxing, takeoff, landing, battlestations: nav, com, atc, hangar, elevator, engine, cannons, radar, fleet control room 
 
 Unreal QueenOfAllSeas RunwayOnly
 
