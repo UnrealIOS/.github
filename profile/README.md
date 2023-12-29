@@ -52,7 +52,7 @@ Render QueenOfAllSeas Human Team
 Render QueenOfAllSeas Human Team Assist
 
 
-Imagine QueenOfAllSeas: preflight, taxing, takeoff, landing, battlestations: pilot, nav, com, atc, hangar, elevator, engine, cannons, radar, fleet control room 
+Imagine QueenOfAllSeas: (zeppelin/imaginary Air Superiority Fighter/laser guns) preflight, taxing, takeoff, landing, battlestations: pilot, nav, com, atc, hangar, elevator, engine, cannons, radar, fleet control room 
 
 Imagine QueenOfAllSeas Human Team
 
