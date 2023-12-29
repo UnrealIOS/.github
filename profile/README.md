@@ -693,6 +693,10 @@ ASSEMBLY_LINE Star registration number x Full Cards/Chess Matrix
 ASSEMBLY_LINE Known Planet registration number x Full Cards/Chess Matrix
 same for REF_DOCS
 same for CREDENTIALS
+same for RAG
+same for SRC
+same for USER_DOCS
+same for API_SRC
 
 
 
