@@ -1,3 +1,5 @@
+Replace Tarot, Chess and Playing Card names in Markdown with their Unicode symbols
+
 Deploy Queen of Swords
 
 Deploy Auxiliaries
