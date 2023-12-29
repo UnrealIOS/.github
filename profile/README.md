@@ -691,8 +691,15 @@ ASSEMBLY_LINE Black Jocker
 ASSEMBLY_LINE 6 of Cups Tarot
 ASSEMBLY_LINE Star registration number x Full Cards/Chess Matrix
 ASSEMBLY_LINE Known Planet registration number x Full Cards/Chess Matrix
+same for REF_DOCS
+same for CREDENTIALS
+
+
+
 ASSEMBLY_LINE Drone
 ASSEMBLY_LINE CivilianTruck
+
+
 
 ASSEMBLY_LINE_FAST_DEPLOYMENT KingOfLand
 Attack enemy targets using Chess War Strategy
