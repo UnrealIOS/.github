@@ -1,4 +1,4 @@
-Deliver Queen of Swords
+Deploy Queen of Swords
 
 Deploy Auxiliaries
 
