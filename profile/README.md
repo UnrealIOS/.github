@@ -38,6 +38,8 @@ Imagine all Her onboard vehicles
 
 Imagine Queen of Swords 
 
+Imagine Queen of Coins (civilian/multirotor ports)
+
 Imagine Queen of Batons (raft/fixed wing)
 
 Imagine Queen of Cups (raft/multirotor ports)
