@@ -52,7 +52,7 @@ Render QueenOfAllSeas Human Team
 Render QueenOfAllSeas Human Team Assist
 
 
-Imagine QueenOfAllSeas: (zeppelin/imaginary Air Superiority Fighter/laser guns) preflight, taxing, takeoff, landing, battlestations: pilot, nav, com, atc, hangar, elevator, engine, cannons, radar, fleet control room, Human Team Quarters, Human Team Mess Hall, Human Team Mess Bathrooms/Sauna/Gym, Human Team Kitchen, Human Team Infirmary, Human Team Armory, Repair Shops, Hangar, Hangar Elevator, Hangar Armory, Hangar Repair Shop, Hangar Armory Repair Shop, Engine, Engine Room, Engine Control Room
+Imagine QueenOfAllSeas: (zeppelin/imaginary Air Superiority Fighter/laser guns) preflight, taxing, takeoff, landing, battlestations: pilot, nav, com, atc, hangar, elevator, engine, cannons, radar, fleet control room, Human Team Quarters + (Humanoid Team Quarters/Extra Storage Fascilities), Human Team Mess Hall (+ Humanoid Team Repair Shop), Human Team Mess Bathrooms/Sauna/Gym, Human Team Kitchen, Human Team Infirmary, Human Team Armory, Repair Shops, Hangar, Hangar Elevator, Hangar Armory, Hangar Repair Shop, Hangar Armory Repair Shop, Engine, Engine Room, Engine Control Room, Storage Fascilities
 
 Imagine QueenOfSpace: (autonomous spaceship/imaginary Space Superiority Fighter/laserguns) space fight, ejection, receival, battlestations:  pilot, nav, com, atc, hangar, elevator, engine, cannons, radar, fleet control room
 
