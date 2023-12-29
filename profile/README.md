@@ -16,6 +16,12 @@ Build Queen of Swords and Her friends
 
 Deliver Queen of Swords and Her friends Production Docs
 
+Build Queen of Swords and Her friends Assembly Lines
+
+Deploy Queen of Swords and Her friends Assembly Lines
+
+Deliver Queen of Swords and Her friends Assembly Lines Production Docs
+
 Build Queen of Swords and Her friends Manufactures
 
 Deploy Queen of Swords and Her friends Manufactures
