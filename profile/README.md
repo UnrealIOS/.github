@@ -14,9 +14,9 @@ Deploy Human Team
 
 Rooks ATTACK
 
-Rooks TARGET seleect
+Rooks ATTACK_TARGET_SELECT
 
-Rooks Human Control
+Rooks HUMAN_CONTROL
 
 Deploy Human Team Assist
 
