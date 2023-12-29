@@ -1,6 +1,8 @@
 Swift<>Python cli tool translation
 
 
+https://youtube.com/@TrophiesOrcs segmentation/annotation/index/rag/imagine/render
+
 translate all Markdown files into English in place
 
 translate all Markdown files into ukr.md
