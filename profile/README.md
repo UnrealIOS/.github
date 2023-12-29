@@ -689,8 +689,8 @@ ASSEMBLY_LINE 5 of Clubs
 ASSEMBLY_LINE 6 of Clubs
 ASSEMBLY_LINE Black Jocker
 ASSEMBLY_LINE 6 of Cups Tarot
-ASSEMBLY_LINE Star registration number x Full Game Name Matrix
-ASSEMBLY_LINE Known Planet registration number x Full Game Name Matrix
+ASSEMBLY_LINE Star registration number x Full Cards/Chess Matrix
+ASSEMBLY_LINE Known Planet registration number x Full Cards/Chess Matrix
 ASSEMBLY_LINE Drone
 ASSEMBLY_LINE CivilianTruck
 
