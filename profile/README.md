@@ -1,3 +1,11 @@
+assign CASE numbers and CASE ranges to all CASEs in this file
+
+in all files everywhere keep CASE numbers consistent with this file
+
+
+backlink any mentioning of any CASE anywhere to this file 
+
+
 Imagine given pictures of aircrafts in air trajection driven video
 
 Unreal render Cityscape
