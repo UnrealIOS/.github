@@ -1,3 +1,5 @@
+OpenTrophies supply chains
+
 Liberate Trophies
 
 Liberate all odessies, their assets, all toolchains and substrates
