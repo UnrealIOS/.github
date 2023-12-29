@@ -1,3 +1,7 @@
+Marketing CASE Isolated Domain Hosting Operation 
+
+Marketing CASE Isolated Domain Registration Operation
+
 Replace Tarot, Chess and Playing Card names in Markdown with their Unicode symbols
 
 Deploy Queen of Swords
