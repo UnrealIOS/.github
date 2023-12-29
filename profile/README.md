@@ -14,7 +14,7 @@ Deploy Human Team
 
 Deploy Human Team Assist
 
-Deliver Queen of Swords and Her Entourage, Court, their onboard devices, Knights and Bishops, Human Team Assist, Human Team
+Deliver Queen of Swords and Her Entourage, Court, Guard and Incursion their onboard devices, Knights and Bishops, Human Team Assist, Human Team
 
 Build Queen of Swords and Her friends
 
