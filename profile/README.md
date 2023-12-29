@@ -1,4 +1,38 @@
-Imagine Queen of Cups
+Deliver Queen of Swords
+
+Deploy Auxiliaries
+
+Deploy all onboard vehicles
+
+Deploy Human Team
+
+Deploy Human Team Assist
+
+Deliver Queen of Swords + Auxiliaries, their onboard vehicles, Human Team Assist, Human Team
+
+Build Queen of Swords and Her friends
+
+Deliver Queen of Swords and Her friends Production Docs
+
+Build Queen of Swords and Her friends Manufactures
+
+Deploy Queen of Swords and Her friends Manufactures
+
+Deliver Queen of Swords and Her friends Manufactures Production Docs
+
+Imagine Assembly Lines
+
+Imagine Her Assembly Line
+
+Imagine all Her Auxiliaries and theirs onboard vehicles
+
+Imagine all Her onboard vehicles
+
+Imagine Queen of Swords 
+
+Imagine Queen of Batons (raft/fixed wing)
+
+Imagine Queen of Cups (raft/multirotor ports)
 
 Imagine QueenOfAllSeas: preflight, taxing, takeoff, landing, battlestations: nav, com, atc, hangar, elevator, engine, cannons, radar, fleet control room 
 
