@@ -14,9 +14,7 @@ Deploy Human Team
 
 Deploy Human Team Assist
 
-Deliver rest of Queen of Swords' Friends and their onboard vehicles
-
-Deliver Queen of Swords + Must Have Auxiliaries, their onboard vehicles, Human Team Assist, Human Team
+Deliver Queen of Swords and Her Entourage, Court, their onboard devices, Knights and Bishops, Human Team Assist, Human Team
 
 Build Queen of Swords and Her friends
 
