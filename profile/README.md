@@ -1,7 +1,7 @@
 Reformat Markdown properly: 
  - $${\color{grey} Make every line in this file which text doesnt start with "CASE" grey }$$
- - $${\color{grey} CASE every CASE without number $${\color{yellow}yellow }$$ 
- - $${\color{gree} CASE--1 every CASE with number $${\color{green}green }$$ 
+ - $${\color{yellow} CASE every CASE without number yellow }$$ 
+ - $${\color{green} CASE--1 every CASE with number green }$$ 
  - `filenames` `source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
  - Tarot, Chess and Playing Card names
  - Make links to cases: (follow $CASE_DIRECTORY_RULES fo find appropriate Github repository)
