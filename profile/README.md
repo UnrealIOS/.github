@@ -11,7 +11,7 @@ Reformat Markdown properly:
  - $${\color{red} CASE--2-with-potential-legal-threats-red }$$ 
  - $${\color{red} CASE--99-with-current-vunerabilites-red }$$ (Unpatched security vunerabilites, potential private data leaks, hardcoded credentials, private data of developers)
  - $${\color{pink} CASE--3-with-potential-malware-pink }$$ 
- - $${\color{magenta} CASE--4-with-potential-nsfw-magenta }$$
+ - $${\color{magenta} CASE--4-with-potential-nsfw-magenta }$$ Gore, Erotica
    
 
 Assign case number for each non-header line of text in this file. Do not reassign already existing CASE numbers! Create a case folder for each new case, populate it with README.md file and .gitignore
