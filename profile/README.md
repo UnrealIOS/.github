@@ -32,11 +32,13 @@ Deploy all onboard vehicles
 
 Deploy Human Team
 
-Rooks MODE_FULL_SWEEP
+CASE Chess Pawn Instruction
 
-Rooks ATTACK_GEO_AREA_SELECT
+Rooks CHESS_PAWN_FULL_SWEEP
 
-Rooks HUMAN_CONTROL
+Rooks CHESS_PAWN_GEO_AREA_SELECT
+
+Rooks CHESS_PAWN_HUMAN_CONTROL
 
 Deploy Human Team Assist
 
