@@ -1,6 +1,6 @@
 Reformat Markdown properly: 
- - $${\color{grey} Make_lines_without_CASE_grey }$$
- - $${\color{yellow} CASE_Every_CASE_without_number_yellow }$$ 
+ - $${\color{grey} Make-lines-without-CASE-grey }$$
+ - $${\color{yellow} CASE-Every-CASE-without-number-yellow }$$ 
  - $${\color{green} CASE--1-with-number-green }$$ 
  - `filenames` `source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
  - Tarot, Chess and Playing Card names
