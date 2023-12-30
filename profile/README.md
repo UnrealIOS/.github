@@ -1,10 +1,12 @@
+Reformat Markdown properly: 
+ - `filenames` `source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
+ - Tarot, Chess and Playing Card names
+
 Assign case number for each non-header line of text in this file. Do not reassign already existing CASE numbers! Create a case folder for each new case, populate it with README.md file and .gitignore
 
 Marketing CASE Isolated Domain Hosting Operation 
 
 Marketing CASE Isolated Domain Registration Operation
-
-Replace Tarot, Chess and Playing Card names in Markdown with their Unicode symbols
 
 CASE Chess Piece Instruction
 
