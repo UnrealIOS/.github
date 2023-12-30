@@ -4,6 +4,8 @@ Reformat Markdown properly:
 
 Assign case number for each non-header line of text in this file. Do not reassign already existing CASE numbers! Create a case folder for each new case, populate it with README.md file and .gitignore
 
+For each case in $CASES_DEVELOP, augment case with the new contribution, created by transform of $CASE_CHANGE_LOG, $HALLUCINATED_CONTRIBUTION_RAG_OVER_CASE_FILE_SET_AND_RELATED_CASES_FILE_SETS to $RAG_AWARE_LLM_RESPOMSE
+
 Marketing CASE Isolated Domain Hosting Operation 
 
 Marketing CASE Isolated Domain Registration Operation
