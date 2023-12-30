@@ -5,6 +5,7 @@ Reformat Markdown properly:
  - `filenames` `source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
  - Tarot, Chess and Playing Card names
  - Make links to cases: (follow $CASE_DIRECTORY_RULES fo find appropriate Github repository)
+ - $${\color{red} CASE--1-with-duplicated-numbers-red }$$ 
 
 Assign case number for each non-header line of text in this file. Do not reassign already existing CASE numbers! Create a case folder for each new case, populate it with README.md file and .gitignore
 
