@@ -4,11 +4,23 @@ Marketing CASE Isolated Domain Registration Operation
 
 Replace Tarot, Chess and Playing Card names in Markdown with their Unicode symbols
 
+Incursion MODE_OCCUPY
+
+Her Guard MODE_FAN_OUT_DESTROY
+
+Deploy Her Guard
+
+Queen forward
+
+Her Court MODE_ESCORT_QUEEN
+
 Deploy Her Court
 
 Incursion forward
 
 Deploy Incursion
+
+Her Entourage MODE_ESCORT_QUEEN
 
 Deploy Queen of Swords
 
