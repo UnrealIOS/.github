@@ -6,7 +6,7 @@ Reformat Markdown properly:
  - Tarot, Chess and Playing Card names
  - Make links to cases: (follow $CASE_DIRECTORY_RULES fo find appropriate Github repository)
  - Create slugs for cases:
-    - $${CASE-9999-short-memorable-slug}$$ 
+    - $${CASE999999-short-memorable-slug}$$ 
  - $${\color{red} CASE--1-with-duplicated-numbers-red }$$ 
  - $${\color{red} CASE--2-with-potential-legal-threats-red }$$ 
  - $${\color{pink} CASE--3-with-potential-malware-pink }$$ 
