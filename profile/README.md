@@ -6,15 +6,15 @@ Replace Tarot, Chess and Playing Card names in Markdown with their Unicode symbo
 
 CASE Chess Piece Instruction
 
-Incursion MODE_OCCUPY
+Incursion CHESS_PIECE_OCCUPY
 
-Her Guard MODE_FAN_OUT_DESTROY
+Her Guard CHESS_PIECE_ROYAL_FAN_OUT_DESTROY
 
 Deploy Her Guard
 
 Queen forward
 
-Her Court MODE_ESCORT_QUEEN
+Her Court CHESS_PIECE_ROYAL_ESCORT
 
 Deploy Her Court
 
@@ -22,7 +22,7 @@ Incursion forward
 
 Deploy Incursion
 
-Her Entourage MODE_ESCORT_QUEEN
+Her Entourage CHESS_PIECE_ROYAL_ESCORT
 
 Deploy Queen of Swords
 
