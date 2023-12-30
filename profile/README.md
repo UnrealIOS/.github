@@ -1,7 +1,7 @@
 Reformat Markdown properly: 
  - $${\color{grey} Make_lines_without_CASE_grey }$$
  - $${\color{yellow} CASE_Every_CASE_without_number_yellow }$$ 
- - $${\color{green} CASE--1_with_number_green }$$ 
+ - $${\color{green} CASE--1-with-number-green }$$ 
  - `filenames` `source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
  - Tarot, Chess and Playing Card names
  - Make links to cases: (follow $CASE_DIRECTORY_RULES fo find appropriate Github repository)
