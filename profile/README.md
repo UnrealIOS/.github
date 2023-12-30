@@ -1,11 +1,11 @@
-Reformat Markdown properly: 
+CASEX Reformat Markdown properly: 
  - $${\color{grey} Make-lines-without-CASE-grey }$$
  - $${\color{yellow} CASE-Every-CASE-without-number-yellow }$$ 
  - $${\color{green} CASE--1-with-number-green }$$ 
- - `filenames` `source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
- - Tarot, Chess and Playing Card names
- - Make links to cases: (follow $CASE_DIRECTORY_RULES fo find appropriate Github repository)
- - Create slugs for cases:
+ - CASEX `filenames` `source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
+ - CASEX Tarot, Chess and Playing Card names
+ - CASEX Make links to cases: (follow $CASE_DIRECTORY_RULES fo find appropriate Github repository)
+ - CASEX Create slugs for cases:
     - $${CASE999999-short-memorable-slug}$$ 
  - $${\color{red} CASE--1-with-duplicated-numbers-red }$$ 
  - $${\color{red} CASE--2-with-potential-legal-threats-red }$$ 
@@ -14,9 +14,9 @@ Reformat Markdown properly:
  - $${\color{magenta} CASE--4-with-potential-nsfw-magenta }$$ Gore, Erotica
    
 
-Assign case number for each non-header line of text in this file. Do not reassign already existing CASE numbers! Create a case folder for each new case, populate it with README.md file and .gitignore
+CASEX Assign case number for each non-header line of text in this file. Do not reassign already existing CASE numbers! Create a case folder for each new case, populate it with README.md file and .gitignore
 
-For each case in $CASES_DEVELOP, augment case with the new contribution, created by transform of $CASE_CHANGE_LOG, $HALLUCINATED_CONTRIBUTION_RAG_OVER_CASE_FILE_SET_AND_RELATED_CASES_FILE_SETS to $RAG_AWARE_LLM_RESPONSE according to $CASE_CLASS_STRATEGY
+CASEX For each case in $CASES_DEVELOP, augment case with the new contribution, created by transform of $CASE_CHANGE_LOG, $HALLUCINATED_CONTRIBUTION_RAG_OVER_CASE_FILE_SET_AND_RELATED_CASES_FILE_SETS to $RAG_AWARE_LLM_RESPONSE according to $CASE_CLASS_STRATEGY
 
 Marketing CASE Isolated Domain Hosting Operation 
 
