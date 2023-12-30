@@ -1,6 +1,7 @@
 Reformat Markdown properly: 
  - `filenames` `source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
  - Tarot, Chess and Playing Card names
+ - Make links to cases: (follow $CASE_DIRECTORY_RULES fo find appropriate Github repository)
 
 Assign case number for each non-header line of text in this file. Do not reassign already existing CASE numbers! Create a case folder for each new case, populate it with README.md file and .gitignore
 
@@ -453,7 +454,7 @@ This is test case that is run on commit to `main` branch of `Monorepo`
       - CASE1099: Anonymized Everything, except for CASES1..111 vs originals
    - CASE1100: 
 
-## [CASE1..10, CASE900001..999999](https://github.com/UnrealIOS/CASE1_99) Legal Cases
+## [CASE1..10, CASE900001..999999](https://github.com/UnrealIOS/CASE1_99) Legal Cases %%CASE_DIRECTORY_RULE
 
 
 Legal court cases of `default` jurisdiction `DEFAULT_JURISDICTION`
@@ -461,7 +462,7 @@ Legal court cases of `default` jurisdiction `DEFAULT_JURISDICTION`
   - `#Legal`
 
 
-## [CASE100..999](https://github.com/UnrealIOS/CASE100_999)
+## [CASE100..999](https://github.com/UnrealIOS/CASE100_999) %%CASE_DIRECTORY_RULE
 
 Technical high priority categories
 
@@ -494,7 +495,7 @@ Technical high priority categories
 
 
 
-## [CASE1000..9999](https://github.com/UnrealIOS/CASE1000_9999)
+## [CASE1000..9999](https://github.com/UnrealIOS/CASE1000_9999) %%CASE_DIRECTORY_RULE
 
 Wide spectrum of categories cases with manual curation of the documents, for example:
 
@@ -533,7 +534,7 @@ Wide spectrum of categories cases with manual curation of the documents, for exa
 
 
 
-## [CASE10000..99999](https://github.com/UnrealIOS/CASE10000_99999)
+## [CASE10000..99999](https://github.com/UnrealIOS/CASE10000_99999) %%CASE_DIRECTORY_RULE
 
 Huge cases, or "manual regeneration only" small cases (such as annually updatable books)
 
