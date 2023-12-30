@@ -4,6 +4,8 @@ Marketing CASE Isolated Domain Registration Operation
 
 Replace Tarot, Chess and Playing Card names in Markdown with their Unicode symbols
 
+CASE Chess Piece Instruction
+
 Incursion MODE_OCCUPY
 
 Her Guard MODE_FAN_OUT_DESTROY
