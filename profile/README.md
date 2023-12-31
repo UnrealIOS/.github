@@ -878,7 +878,11 @@ Her Theater Control способен контролировать удаленн
 
 QueenOfCoins Guard
 QueenOfCoins Court
-QueenOfCoins Entrourage
+QueenOfCoins Entourage
+HumanHabitatContainer
+QueenAAContainer
+QueenRadarContainer
+Queen Entourage Platforms
 DuckATCContainer
 DuckStorageContainer
 DuckLaunchContainer
