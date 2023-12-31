@@ -15,7 +15,9 @@ INSTRUCTION_LIST_1_WRITE_OPEN
 INSTRUCTION_CLASSIFIER_SET INSTUCTION_(PREPENDED_MARKER) CASE(-)(999999)-Slug-of-case
 INSTRUCTION_IMAGINIZER_SET INSTUCTION_
 ```
-Create a script using `Python` and `$ProgrammingLanguageName` and `$MyOwnProgrammingLanguageName` and `Markdown` and `Shell` rules from instruction (`SEE` [INSTRUCTIONS/INSTRUCTION_]()  
+Create a script using `Python` and `$ProgrammingLanguageName` and `$MyOwnProgrammingLanguageName` and `Markdown` and `Shell` rules from instruction 
+
+`SEE` [INSTRUCTIONS/INSTRUCTION_]()  
 ```
 INSTRUCTION_LIST_1_WRITE_CLOSE
 EXECUTE INSTRUCTION_LIST_1
