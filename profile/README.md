@@ -847,6 +847,163 @@ Movies:
  - Cuneiform period accounting
 
 
+QueenFortressInstallation
+
+QueenCombatAirfieldInstallation
+
+QueenMinCombatGroupDeploymentInstallation
+
+QueenMobileCatapult (BoarKnight / DuckBishop)
+
+QueenCapitalShipCatapult (EagleBishop)
+
+QueenSmallShipCatapult (DuckBishop)
+
+QueenTrainCatapult (DuckBishop)
+
+QueenVirtualAirfieldCatapult (AnyBishop)
+
+
+
+QueenTrainInstallation
+
+QueenCargoShipFortessInstallation
+
+QueenTrainControl
+
+
+Her Barricade Net Posts
+
+Her Theater Control способен контролировать удаленно управляемые Queens, Pawns, other Queens' Pawns and Bishops, Bishops, Knights and their Pawns и назначать им Приказы и Стратегии, а также назначать Приказы и Стратегии и Cmdline/Bootloader/IDE Access ко всем Queens, Bishops, Knights, Rooks, Pawns
+
+QueenPawn
+QueenPawnPod
+
+DuckBishop
+EagleBishop
+BaldEagleBishop
+
+
+DeltaBoarBishop
+BoarKnight
+
+BoarKnightPawn
+BoarKnightPawnPod
+
+
+ElephantKnight
+ElephantBaldEagleBishop
+
+
+Her Lower Tarmak Continuation/Ground Vehicles Disembark Hatch
+
+16x3 Duck Catapults (on both Ground Vehicle Levels + on Lower Tarmak Continuation)
+6 x Duck Reloading Stations
+Duck Storage
+2 x Duck Elevator
+DuckUI/Operations
+
+Her rough dimensions
+Shape of Her Hull
+Both of Her Nuclear Push Modular Vessels
+Their Ports and Flags
+Their Team and Papers
+Their Helm and All
+Both of FatBoi Push Modular Vessels
+Shape of their Hull
+Their Helm and Engines Panels
+
+Hangar, Elevator, all 4 of Her Diagonal Pattern 2 Bishop per Shot Sync Launch Catapults and all Her visible angles: Upper Tarmac,  Lower Tarmac, Ground Vehicles Staging, Ground Vehicles Hatch (Closed/Open) and its Panel (/AirportDrones), Plane Storage/Hangar, Her Capital Guns, Turrets and Radars, Her ATC and its Radar, all Her Battlestation Panels: Helm (Full Access + Abandon/SMission), PilotBasic, NavBasic, CommBasic, TheaterControlTrioCombination (Sea, Air and Ground), BishopsVoicesHeartbeats, KnightsVoicesHeartbeats, HerOwnControl (GameEngine, Settings, Human Team, AR, CryptoOrders, APIs, Cats, Androids), Engines (/Enrichment), Cannons (/ArtyDrones), Catapults (/AiportDrones), Elevator (/AirportDrones), Hangar (/ClickPointKnightsBishopsControl), Data centers, Engine/Cannon Docking / Ejection, of Her ATC: AirportDrones, AirportLightsAndCameras, RunwaySelect, LookoutDrones, EntourageDrones, CourtDrones, GuardCommandChats, EntourageRC, CourtRC, CannonsControl, Operations, CommandChat, DataCollect, PersonalChat, TrioOfDecks, BishopStorage, BishopNavigation, BishopsOwnNavigation, BishopLoadout, TheaterAir, BishopVoicesHeartbeats, KnightsVoicesHeartbeats, Ground Vehicles Staging Panels: KnightsPawns Storage, Loadout, Repairs, Production, Data centers, BishopVoicesHeartbeats, KnightsVoicesHeartbeats
+Remote Controlled Pawns of Knights and Knights. Hangar Floor Installed RC Battlestations: KnightPilot: VehiclePilotPanel, PawnTheater, PawnLoadout, PawnStorage, SeaAirAndGroundSoldier, SearchAndRescue, KnightSettings, CannonsControl, Operations, CommandChat, DataCollect, PersonalChat, MediaPlayer, Tutorial
+Bishop Pilot: Same + ATC Flyer Panel Set
+Pawn Pilot: Same as Bishop Pilot Plus LandOnKnight/Queen Panel
+Queen Pilot: Set of Queen Panels minus Helm
+Engine Pilot: Helm and Engines
+
+
+Bishop to Launch Position Promo Video
+Bishop away
+2x Bishops away (Upper Left + Lower Right Catapults, Lower Left + Upper Right)
+4x Bishops away
+8x Bishops away
+16x Bishops away
+16x Bishops away with Loadout and Taxing
+Knights Staging
+Knights Sea Ground Vehicle Hatch Departure
+Knights Shore Port Ground Vehicle Hatch Departure
+Knights Shore Cliff Ground Vehicle Hatch Departure
+Knights To Shore By Heli
+Knights By Utralight Cargo Fixed Wing
+
+Queen vs Queen Duel Multiplayer (populate Queens with Players Rank by Rank starting with Captain)
+
+Ranks (Access to Panels)
+
+Rewrite README.md into RUNME.py, that populates all proper LLM/py Environment Variables, Launches with README.md text passed to stdin in RUNME.py directory with access to CASE and related CASEs RAGs for per Instruction LLM request
+
+
+Her Biohazard Chambers/Gardens and Disinfection/Chambers Climate Control. Her RatBox/Ejection/Usage/Destruction.  Morgue 20ft Standard Container, Prison (Standard 40ft Container Stackable Automated Isolated Human Habitat 2xHotelRoomBathtub + 1 pool/gym/entertainment/simulators). Container Crane Vessel. Her 8x40ft Container Hosting (Lower Ground Vehicles Level)/Docking/Operations. Container Disposal Vessel
+Her Per Container Interlocking Elevators
+Her Rudder
+Her Nose
+
+PilotHUDFlatShowOrders
+
+PilotHUDFlatShowMap
+
+PilotHUDFlatShowComms
+
+PilotHUDFlatShowNavigation
+
+PilotHUDFlatShowPawnLaunch
+
+PilotHUDFlatShowPawnLoadout
+
+PilotHUDFlatShowPawnMapCommand
+
+PilotHUDFlatShowPawnMapLanding
+
+PilotHUDFlatShowPawnMapControl
+
+PilotHUDFlatCommandChat
+
+PilotHUDFlatPeersAndPersonalChat
+
+PilotHUDARShowOrders
+
+PilotHUDAR...
+
+TelegramChannelGithubRepositorySync
+GithubRepositoryTelegramBot
+
+
+€REVERSE_EXECUTION_ORDER_AFTER_NEXT_INSTRUCTION
+€JUMP_TO $EndOfFile
+
+для каждой программы писать описания внешних API, потом тесты по ним, потом код который удовлетворяет тестам (мок/полумок), потом описание UI и commandline entry point (если есть то и/или то), потом тесты по ним, потом код который мокает тесты, потом их самих
+
+для каждого проекта писать маркетинговую копию которая включает в себя программу СтатическийВебсайтМаркетинговойКопии
+
+для каждого кейса придумать новую инструкцию на основе всех предыдущих инструкций в контексте этого кейса (иструкции вызванные в контексте кейса из других кейсов - %%закомменчены) из history.md
+
+
+~~~~~~
+- Write each executed in case instruction in CASE??????/history.md
+- Make changelog from git repository
+- diff to git commit message
+- Human (eng-ukr-rus), programming (swift/python), layout (ipynb, md, source code + doc) conversion matrix 
+- Imagine Entity Text, Imagined Entity Image, Imagined Entity Video * Hierarchy of Entity/Case specific Categories conversion matrix
+- Extension/ImaginedProduct conversion matrix
+~~~~~~
+
+€JUMP_TO 3
+€REVERSE_EXECUTION_ORDER_AFTER_NEXT_INSTRUCTION
+
+
+Markdown Conversion Matrix Markdown, Text on Screen, Text on Screen of Imagined Computer, Docx, PDF, One Page Website, each according to Default  for ExtensionDocumentClassPair, optionally appendable/prependable/replaceable by in-Case specific Category MD_to_PDF.py/.md/.ipynb/.sh/.txt/.swift/.kt
+Mark PROJECT_Variables and EntityNames Bold
+Mark €INSTRUCTIONS Bold underscored monospaced, $DocumentVariables - italic underscored monospaced
+
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
