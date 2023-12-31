@@ -5,13 +5,13 @@ CASEX Reformat Markdown properly:
  - CASEX `filenames` `source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
  - CASEX Tarot, Chess and Playing Card names
  - CASEX Make links to cases: (follow $CASE_DIRECTORY_RULES fo find appropriate Github repository)
- - CASEX Create slugs for cases:
-    - $${CASE999999-short-memorable-slug}$$ 
- - $${\color{red} CASE--1-with-duplicated-numbers-red }$$ 
- - $${\color{red} CASE--2-with-potential-legal-threats-red }$$ 
- - $${\color{red} CASE--99-with-current-vunerabilites-red }$$ (Unpatched security vunerabilites, potential private data leaks, hardcoded credentials, private data of developers)
- - $${\color{pink} CASE--3-with-potential-malware-pink }$$ 
- - $${\color{magenta} CASE--4-with-potential-nsfw-magenta }$$ Gore, Erotica
+ - CASEX-Create-slugs for cases:
+    - $${CASE999999-Short-memorable-slug}$$ 
+ - $${\color{red} CASE--1-With-duplicated-numbers-red }$$ 
+ - $${\color{red} CASE--2-With-potential-legal-threats-red }$$ 
+ - $${\color{red} CASE--99-With-current-vunerabilites-red }$$ (Unpatched security vunerabilites, potential private data leaks, hardcoded credentials, private data of developers)
+ - $${\color{pink} CASE--3-With-potential-malware-pink }$$ 
+ - $${\color{magenta} CASE--4-With-potential-nsfw-magenta }$$ Gore, Erotica
    
 
 CASEX Assign case number for each non-header line of text in this file. Do not reassign already existing CASE numbers! Create a case folder for each new case, populate it with README.md file and .gitignore
