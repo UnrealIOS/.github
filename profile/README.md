@@ -876,8 +876,17 @@ Her Barricade Net Posts
 
 Her Theater Control способен контролировать удаленно управляемые Queens, Pawns, other Queens' Pawns and Bishops, Bishops, Knights and their Pawns и назначать им Приказы и Стратегии, а также назначать Приказы и Стратегии и Cmdline/Bootloader/IDE Access ко всем Queens, Bishops, Knights, Rooks, Pawns
 
+QueenOfCoins Guard
+QueenOfCoins Court
+QueenOfCoins Entrourage
+DuckATCContainer
+DuckStorageContainer
+DuckLaunchContainer
+QueenOfCoinsContainer
+
+
 QueenPawn
-QueenPawnPod
+QueenPawnPod 
 
 DuckBishop
 EagleBishop
