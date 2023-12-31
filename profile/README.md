@@ -9,7 +9,7 @@ For each CASE in FILE create INSTRUCTION_LIST
  - INSTRUCTION_IMAGINIZER_SET: "natural_language_prompt_for_imaginizer_instantiation"
  - INSTRUCTION_CLASSIFIER_SET: 'natural_language_prompt_for_classifier_instantiation"
    - INSTRUCTION_CLASSIFIER_SET INSTUCTION_PREPENDED_MARKERS CASE s
- - 
+ - $${\color{white} INSTRUCTION_IMAGINIZER_SET INSTUCTION_PREPENDED_MARKERS }$$ 
 
 CASEX-Reformat-Markdown properly: 
  - $${\color{grey} Make-lines-without-CASE-grey.\space Ignore \space CASX! }$$
