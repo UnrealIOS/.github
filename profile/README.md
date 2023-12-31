@@ -1,5 +1,10 @@
-QueenOfCoinsEntourage: DuckRecoveryBoarKnight
+QueenOfCoinsEntourage: DuckRecoveryBoarKnight, DuckMobileLaunchBoarKnight, DuckAirfieldLaunchBoarKnight, HumanMedicRecoveryBoarKnight
 
+
+QueenOfCoinsCourt: 
+AAElephantKnight, RadarAAElephantKnight, CommandAAElephantKnight, ReloadAAElephantKnight
+
+QueenOfCoinsGuard: MainElephantKnight, MainBoarKnight
 
 For each CASE in FILE create INSTRUCTION_LIST
 
