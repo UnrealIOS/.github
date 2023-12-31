@@ -1,4 +1,4 @@
-CASEX Reformat Markdown properly: 
+CASEX-Reformat-Markdown properly: 
  - $${\color{grey} Make-lines-without-CASE-grey.\space Ignore \space CASEX! }$$
  - $${\color{yellow} CASE-Every-CASE-without-number-yellow }$$ 
  - $${\color{green} CASE--1-with-number-green }$$ 
