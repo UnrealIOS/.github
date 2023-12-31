@@ -2,9 +2,9 @@ CASEX Reformat Markdown properly:
  - $${\color{grey} Make-lines-without-CASE-grey.\space Ignore \space CASEX! }$$
  - $${\color{yellow} CASE-Every-CASE-without-number-yellow }$$ 
  - $${\color{green} CASE--1-with-number-green }$$ 
- - CASEX `filenames` `source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
- - CASEX Tarot, Chess and Playing Card names
- - CASEX Make links to cases: (follow $CASE_DIRECTORY_RULES fo find appropriate Github repository)
+ - CASEX-`Filenames`-`source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
+ - CASEX-Tarot, Chess and Playing Card names
+ - CASEX-Make-links to cases: (follow $CASE_DIRECTORY_RULES fo find appropriate Github repository)
  - CASEX-Create-slugs for cases:
     - $${CASE999999-Short-memorable-slug}$$ 
  - $${\color{red} CASE--1-With-duplicated-numbers-red }$$ 
