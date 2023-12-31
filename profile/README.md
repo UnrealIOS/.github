@@ -4,7 +4,7 @@ QueenOfCoinsEntourage: DuckRecoveryBoarKnight, DuckMobileLaunchBoarKnight, DuckA
 QueenOfCoinsCourt: 
 AAElephantKnight, RadarAAElephantKnight, CommandAAElephantKnight, ReloadAAElephantKnight
 
-QueenOfCoinsGuard: MainElephantKnight, MainBoarKnight
+QueenOfCoinsGuard: MainElephantKnight, MainBoarKnight, Big Bishops Auxellaries 
 
 For each CASE in FILE create INSTRUCTION_LIST
 
