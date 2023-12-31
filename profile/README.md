@@ -1,3 +1,6 @@
+QueenOfCoinsEntourage: DuckRecoveryBoarKnight
+
+
 For each CASE in FILE create INSTRUCTION_LIST
 
  - INSTRUCTION_PROMPT: "<natural_language_prompt_for_llm>"
