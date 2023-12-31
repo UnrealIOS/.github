@@ -1,3 +1,13 @@
+For each CASE in FILE create INSTRUCTION
+
+ - INSTRUCTION_PROMPT: "<natural_language_prompt_for_llm>"
+ - INSTRUCTION_IMAGINE: "<natural_language_prompt_for_imaginizer>"
+ - INSTRUCTION_PREPROMT: "natural_language_preprompt_for_llm"
+ - INSTRUCTION_PREPROMT_POP
+ - INSTRUCTION_POSTPROMT: "<natural_language_prompt_for_llm>"
+ - INSTRUCTION_POSTPROMT_POP
+ - 
+
 CASEX-Reformat-Markdown properly: 
  - $${\color{grey} Make-lines-without-CASE-grey.\space Ignore \space CASEX! }$$
  - $${\color{yellow} CASE-Every-CASE-without-number-yellow }$$ 
