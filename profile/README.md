@@ -1,4 +1,4 @@
-For each CASE in FILE create INSTRUCTION
+For each CASE in FILE create INSTRUCTION_LIST
 
  - INSTRUCTION_PROMPT: "<natural_language_prompt_for_llm>"
  - INSTRUCTION_IMAGINE: "<natural_language_prompt_for_imaginizer>"
@@ -6,10 +6,13 @@ For each CASE in FILE create INSTRUCTION
  - INSTRUCTION_PREPROMT_POP
  - INSTRUCTION_POSTPROMT: "<natural_language_prompt_for_llm>"
  - INSTRUCTION_POSTPROMT_POP
+ - INSTRUCTION_IMAGINIZER_SET: "natural_language_prompt_for_imaginizer_instantiation"
+ - INSTRUCTION_CLASSIFIER_SET: 'natural_language_prompt_for_classifier_instantiation"
+   - INSTRUCTION_CLASSIFIER_SET INSTUCTION_PREPENDED_MARKERS CASE s
  - 
 
 CASEX-Reformat-Markdown properly: 
- - $${\color{grey} Make-lines-without-CASE-grey.\space Ignore \space CASEX! }$$
+ - $${\color{grey} Make-lines-without-CASE-grey.\space Ignore \space CASX! }$$
  - $${\color{yellow} CASE-Every-CASE-without-number-yellow }$$ 
  - $${\color{green} CASE--1-with-number-green }$$ 
  - CASEX-`Filenames`-`source code` `ANY_PROGRAMMATIC` `$STUFF` `any_variables`
