@@ -1,3 +1,7 @@
+QueenOfCoinsDeparture Procedure/Committee 
+
+QueenOfCoinsArrival Procedure/Committee 
+
 QueenOfCoinsEntourage: DuckRecoveryBoarKnight, DuckMobileLaunchBoarKnight, DuckAirfieldLaunchBoarKnight, HumanMedicRecoveryBoarKnight
 
 
