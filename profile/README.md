@@ -8,6 +8,12 @@ For each CASE in FILE create INSTRUCTION_LIST
  - INSTRUCTION_POSTPROMT_POP
  - INSTRUCTION_IMAGINIZER_SET: "natural_language_prompt_for_imaginizer_instantiation"
  - INSTRUCTION_CLASSIFIER_SET: 'natural_language_prompt_for_classifier_instantiation"
+ - INSTRUCTION_RENDERER_SET: 'natural_language_prompt_for_renderer_instantiation"
+ - INSTRUCTION_LIST_NAME_WRITE_OPEN/INSTRUCTION_LIST_NAME_WRITE_CLOSE
+ - EXECUTE LIST_NAME
+ - JUMP_LABEL LABEL_NAME
+ - LABEL LABEL_NAME
+
 
 ```
 INSTRUCTION_LIST_1_WRITE_OPEN
